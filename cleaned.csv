@@ -1,0 +1,1400 @@
+primary_track,program_duration_days,placed,employment_status,highest_level_of_education,biggest_challenge_in_search,work_authorization_status,number_of_interviews,number_of_applications,professional_experience_num
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,2.0,900,3.5
+PSO,112.0,0,Unemployed,"Some College, No Degree",Interview skills,Citizen,6.0,0,1.5
+Design,0.0,0,Employed,Master's Degree,Career clarity,Citizen,0.0,0,0.5
+PSO,0.0,0,Contractor,Bachelor's Degree,Interview skills,Citizen,5.0,25,0.5
+SWE,89.0,1,Unemployed,Bachelor's Degree,CV issue,Other,10.0,100,1.5
+SWE,0.0,0,Employed,Master's Degree,Tech issue,Green Card,5.0,100,3.5
+SWE,0.0,0,Employed,Master's Degree,Interview skills,Green Card,0.0,9,3.5
+SWE,19.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,4.0,15,1.5
+SWE,112.0,0,Student,Master's Degree,Tech issue,Other,1.0,5,1.5
+SWE,13.0,0,Employed,Master's Degree,Interview skills,Citizen,0.0,10,3.5
+PSO,0.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,3,1.5
+Data,158.0,0,Unemployed,Master's Degree,Career clarity,Citizen,5.0,50,5.0
+Design,12.0,0,Contractor,Bachelor's Degree,Interview skills,Green Card,3.0,10,1.5
+PSO,52.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,40,0.5
+PSO,112.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,2.0,35,1.5
+PSO,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,25,0.5
+PSO,112.0,0,Student,Bachelor's Degree,Interview skills,Green Card,1.0,35,3.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Green Card,5.0,45,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,15,0.5
+Data,13.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,70,1.5
+Data,112.0,0,Employed,Master's Degree,Tech issue,Citizen,3.0,30,3.5
+SWE,11.0,0,Student,Master's Degree,CV issue,Other,1.0,9,3.5
+SWE,93.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,1.0,10,1.5
+PSO,193.0,1,Unemployed,Master's Degree,CV issue,Citizen,5.0,4,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Other,0.0,130,0.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Citizen,2.0,15,1.5
+SWE,12.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,0.0,20,5.0
+PSO,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,45,0.5
+Design,13.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,110,1.5
+SWE,73.0,1,Student,Master's Degree,Career clarity,Other,0.0,1,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Other,5.0,10,0.5
+SWE,286.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,15,1.5
+SWE,112.0,0,Employed,Master's Degree,Tech issue,Other,1.0,3,0.5
+SWE,5.0,0,Student,"Some College, No Degree",Career clarity,Citizen,5.0,30,5.0
+Design,112.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,15,1.5
+Data,19.0,0,Student,Master's Degree,Interview skills,Other,3.0,9,3.5
+Design,7.0,0,Contractor,Master's Degree,CV issue,Citizen,6.0,80,1.5
+SWE,83.0,1,Employed,Master's Degree,Interview skills,Other,0.0,15,5.0
+PSO,112.0,0,Unemployed,Master's Degree,Interview skills,Citizen,20.0,8,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,2.0,80,1.5
+PSO,0.0,0,Student,Master's Degree,CV issue,Other,0.0,25,1.5
+PSO,13.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,60,3.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Other,4.0,35,0.5
+PSO,12.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,100,3.5
+SWE,112.0,0,Contractor,Master's Degree,CV issue,Other,1.0,10,5.0
+SWE,14.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,50,0.5
+SWE,16.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,35,0.5
+Design,15.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,2.0,7,0.5
+PSO,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,10,5.0
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,3.0,100,0.5
+PSO,112.0,0,Employed,Master's Degree,Interview skills,Citizen,2.0,20,1.5
+PSO,112.0,0,Unemployed,Master's Degree,Interview skills,Other,6.0,35,0.5
+SWE,76.0,1,Student,Master's Degree,Interview skills,Other,0.0,30,3.5
+SWE,0.0,0,Student,Doctorate or Professional Degree,Interview skills,Citizen,5.0,60,3.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Green Card,2.0,2,0.5
+Data,112.0,0,Employed,Master's Degree,Tech issue,Citizen,1.0,0,1.5
+SWE,0.0,0,Unemployed,"Some College, No Degree",Tech issue,Citizen,10.0,50,0.5
+Design,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,80,1.5
+Data,223.0,1,Employed,"Some College, No Degree",Interview skills,Citizen,0.0,2,5.0
+SWE,65.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,0,1.5
+Data,305.0,1,Student,Bachelor's Degree,CV issue,Citizen,1.0,70,1.5
+SWE,187.0,1,Contractor,Bachelor's Degree,Tech issue,Other,1.0,4,0.5
+Data,142.0,1,Student,Master's Degree,CV issue,Other,4.0,7,1.5
+SWE,266.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,20,0.5
+SWE,170.0,1,Employed,Master's Degree,CV issue,Citizen,5.0,3,1.5
+SWE,332.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,8,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Citizen,1.0,6,0.5
+SWE,156.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,1.0,4,1.5
+SWE,143.0,1,Student,Bachelor's Degree,Interview skills,Other,1.0,40,3.5
+SWE,73.0,1,Student,Master's Degree,Interview skills,Citizen,2.0,15,0.5
+SWE,245.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,4.0,200,5.0
+SWE,243.0,1,Student,Bachelor's Degree,Interview skills,Other,5.0,4,1.5
+Data,233.0,0,Employed,Bachelor's Degree,CV issue,Green Card,0.0,15,1.5
+Design,45.0,1,Contractor,Master's Degree,Interview skills,Citizen,1.0,140,1.5
+Design,87.0,1,Student,Doctorate or Professional Degree,Interview skills,Other,5.0,35,3.5
+SWE,243.0,1,Unemployed,Master's Degree,CV issue,Citizen,3.0,25,3.5
+SWE,271.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,80,3.5
+SWE,129.0,1,Student,Bachelor's Degree,Career clarity,Other,4.0,10,0.5
+SWE,317.0,1,Employed,Master's Degree,Career clarity,Citizen,4.0,35,3.5
+Design,112.0,0,Employed,Master's Degree,CV issue,Citizen,2.0,4,1.5
+SWE,62.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,4,3.5
+SWE,69.0,1,Student,Master's Degree,Tech issue,Other,0.0,7,1.5
+SWE,177.0,1,Student,Bachelor's Degree,Career clarity,Other,1.0,2,3.5
+SWE,38.0,1,Student,Master's Degree,Tech issue,Citizen,1.0,70,0.5
+SWE,274.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,20,1.5
+SWE,284.0,0,Student,Bachelor's Degree,Interview skills,Other,7.0,3,3.5
+SWE,59.0,1,Student,"Some College, No Degree",Career clarity,Other,1.0,70,0.5
+SWE,16.0,0,Unemployed,Doctorate or Professional Degree,Interview skills,Citizen,4.0,45,1.5
+Data,112.0,0,Contractor,Bachelor's Degree,Tech issue,Citizen,0.0,25,3.5
+SWE,97.0,1,Contractor,Bachelor's Degree,Interview skills,Citizen,3.0,45,0.5
+SWE,144.0,1,Student,Master's Degree,Tech issue,Other,1.0,15,0.5
+Data,47.0,1,Student,Bachelor's Degree,Career clarity,Other,0.0,4,3.5
+PSO,234.0,1,Employed,"Some College, No Degree",Career clarity,Other,2.0,0,1.5
+SWE,24.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,70,1.5
+SWE,170.0,0,Employed,Master's Degree,Career clarity,Other,1.0,15,1.5
+Data,282.0,0,Contractor,"Some College, No Degree",Interview skills,Other,0.0,10,1.5
+SWE,310.0,0,Student,Master's Degree,Career clarity,Other,1.0,60,3.5
+Design,163.0,1,Student,Master's Degree,Interview skills,Other,6.0,6,5.0
+SWE,177.0,1,Student,Bachelor's Degree,Interview skills,Other,6.0,60,0.5
+SWE,240.0,0,Student,Master's Degree,Interview skills,Citizen,0.0,60,1.5
+SWE,93.0,0,Student,Master's Degree,Interview skills,Citizen,1.0,15,0.5
+PSO,268.0,0,Student,Master's Degree,Career clarity,Other,0.0,140,3.5
+Design,112.0,0,Unemployed,Master's Degree,Interview skills,Other,17.0,15,5.0
+SWE,53.0,1,Student,Bachelor's Degree,CV issue,Citizen,10.0,30,5.0
+SWE,128.0,0,Employed,Master's Degree,Interview skills,Citizen,2.0,190,1.5
+SWE,137.0,0,Student,Bachelor's Degree,Career clarity,Citizen,1.0,80,0.5
+SWE,116.0,1,Student,Bachelor's Degree,Career clarity,Green Card,0.0,3,0.5
+SWE,107.0,1,Contractor,Master's Degree,Interview skills,Citizen,0.0,25,3.5
+SWE,184.0,0,Employed,Master's Degree,CV issue,Citizen,1.0,25,5.0
+SWE,128.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,7,3.5
+PSO,296.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,5,0.5
+SWE,19.0,1,Employed,Bachelor's Degree,CV issue,Other,4.0,40,0.5
+SWE,135.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,4.0,10,3.5
+SWE,97.0,1,Student,Bachelor's Degree,CV issue,Citizen,2.0,20,1.5
+SWE,48.0,1,Employed,Master's Degree,Interview skills,Citizen,1.0,80,0.5
+SWE,41.0,1,Unemployed,Master's Degree,Interview skills,Citizen,0.0,10,3.5
+PSO,184.0,0,Contractor,"Some College, No Degree",Career clarity,Citizen,2.0,5,0.5
+SWE,310.0,0,Unemployed,Doctorate or Professional Degree,Career clarity,Other,1.0,60,3.5
+SWE,206.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,8,0.5
+SWE,195.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,50,1.5
+SWE,185.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,60,0.5
+Design,150.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,5.0,0,3.5
+Data,250.0,1,Student,Master's Degree,Career clarity,Citizen,4.0,3,1.5
+PSO,112.0,0,Contractor,Bachelor's Degree,Interview skills,Citizen,0.0,8,3.5
+SWE,37.0,1,Unemployed,Master's Degree,CV issue,Green Card,2.0,20,0.5
+SWE,67.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,15,1.5
+Design,20.0,0,Student,Master's Degree,CV issue,Other,3.0,15,3.5
+SWE,83.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,6,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,30,1.5
+Design,139.0,1,Employed,Bachelor's Degree,Interview skills,Other,1.0,130,3.5
+SWE,79.0,1,Contractor,Master's Degree,CV issue,Other,0.0,25,1.5
+SWE,72.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,20,5.0
+SWE,241.0,0,Employed,Master's Degree,Career clarity,Other,1.0,90,1.5
+SWE,250.0,1,Student,Bachelor's Degree,CV issue,Green Card,0.0,35,0.5
+SWE,119.0,1,Student,Bachelor's Degree,Interview skills,Citizen,1.0,1,3.5
+Data,247.0,1,Employed,Master's Degree,Career clarity,Other,0.0,30,3.5
+SWE,53.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,15,0.5
+SWE,181.0,1,Unemployed,Master's Degree,Career clarity,Citizen,1.0,10,0.5
+Design,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,1.0,80,0.5
+Data,95.0,1,Unemployed,Bachelor's Degree,Interview skills,Green Card,3.0,90,0.5
+SWE,145.0,1,Employed,Master's Degree,Interview skills,Other,1.0,50,0.5
+SWE,360.0,1,Student,Doctorate or Professional Degree,Interview skills,Green Card,0.0,190,1.5
+PSO,303.0,1,Unemployed,"Some College, No Degree",Interview skills,Other,0.0,6,3.5
+Design,68.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,7,5.0
+SWE,41.0,1,Student,Bachelor's Degree,CV issue,Citizen,2.0,15,1.5
+SWE,234.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,7.0,25,3.5
+PSO,114.0,1,Student,Bachelor's Degree,Interview skills,Other,1.0,10,1.5
+SWE,186.0,1,Employed,Bachelor's Degree,CV issue,Green Card,0.0,0,0.5
+Design,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,35,1.5
+SWE,208.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,10,1.5
+SWE,234.0,1,Student,Master's Degree,Tech issue,Citizen,0.0,35,0.5
+SWE,232.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,45,3.5
+SWE,150.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,5.0,6,1.5
+SWE,111.0,1,Student,Master's Degree,Tech issue,Other,0.0,120,1.5
+Data,138.0,1,Unemployed,Bachelor's Degree,Tech issue,Citizen,1.0,25,0.5
+Design,112.0,0,Student,Master's Degree,CV issue,Other,0.0,20,1.5
+Data,274.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,5,1.5
+PSO,160.0,1,Unemployed,Master's Degree,Career clarity,Green Card,0.0,190,0.5
+Design,88.0,1,Student,Bachelor's Degree,Career clarity,Citizen,0.0,7,3.5
+SWE,276.0,0,Employed,Master's Degree,Tech issue,Other,1.0,35,1.5
+SWE,59.0,1,Employed,"Some College, No Degree",CV issue,Citizen,0.0,90,3.5
+SWE,194.0,1,Employed,Master's Degree,Interview skills,Citizen,2.0,15,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,2,1.5
+SWE,101.0,1,Contractor,Bachelor's Degree,Interview skills,Other,5.0,70,5.0
+Design,145.0,1,Student,Bachelor's Degree,Career clarity,Green Card,0.0,45,3.5
+SWE,18.0,0,Student,Doctorate or Professional Degree,CV issue,Citizen,0.0,7,1.5
+SWE,179.0,1,Student,"Some College, No Degree",Interview skills,Citizen,2.0,60,0.5
+SWE,112.0,0,Employed,"Some College, No Degree",Career clarity,Citizen,0.0,60,1.5
+SWE,145.0,1,Student,Bachelor's Degree,CV issue,Other,1.0,45,1.5
+Design,181.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,3.0,120,3.5
+PSO,112.0,0,Contractor,Master's Degree,CV issue,Citizen,0.0,25,1.5
+Data,112.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,60,0.5
+SWE,145.0,1,Employed,Master's Degree,Interview skills,Other,1.0,15,1.5
+Data,86.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,6,5.0
+Design,248.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,0.0,90,3.5
+SWE,254.0,0,Student,Bachelor's Degree,Interview skills,Other,1.0,35,1.5
+SWE,254.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,20,1.5
+SWE,136.0,1,Student,Bachelor's Degree,CV issue,Green Card,2.0,70,1.5
+SWE,26.0,0,Employed,Bachelor's Degree,Tech issue,Other,1.0,9,3.5
+SWE,142.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,3.0,4,0.5
+PSO,156.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,8,0.5
+SWE,184.0,0,Student,Master's Degree,CV issue,Citizen,0.0,10,1.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,50,3.5
+SWE,244.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,9,0.5
+SWE,58.0,1,Employed,Master's Degree,Career clarity,Citizen,0.0,0,5.0
+SWE,52.0,1,Unemployed,Master's Degree,Interview skills,Citizen,3.0,40,1.5
+SWE,317.0,1,Employed,Master's Degree,CV issue,Citizen,0.0,40,1.5
+SWE,64.0,1,Unemployed,Master's Degree,CV issue,Citizen,4.0,200,5.0
+SWE,73.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,15,0.5
+SWE,94.0,1,Employed,"Some College, No Degree",Interview skills,Citizen,3.0,3,1.5
+SWE,354.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,60,1.5
+SWE,283.0,1,Student,Master's Degree,Interview skills,Citizen,1.0,4,0.5
+SWE,332.0,1,Student,Master's Degree,Interview skills,Other,6.0,45,0.5
+SWE,254.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,45,3.5
+SWE,60.0,1,Student,Master's Degree,Tech issue,Citizen,0.0,1,1.5
+SWE,207.0,1,Student,High School Graduate,Career clarity,Citizen,0.0,25,5.0
+SWE,289.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,200,1.5
+SWE,209.0,1,Employed,Bachelor's Degree,CV issue,Other,1.0,6,0.5
+SWE,319.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,5,3.5
+SWE,325.0,1,Unemployed,Master's Degree,CV issue,Citizen,0.0,35,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,2.0,7,1.5
+SWE,298.0,1,Contractor,Bachelor's Degree,Interview skills,Citizen,4.0,50,3.5
+SWE,112.0,0,Student,Doctorate or Professional Degree,CV issue,Citizen,3.0,150,3.5
+SWE,54.0,1,Employed,Bachelor's Degree,Interview skills,Other,2.0,15,3.5
+SWE,112.0,0,Employed,Master's Degree,Interview skills,Citizen,1.0,50,3.5
+SWE,263.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,9,1.5
+SWE,306.0,0,Unemployed,Bachelor's Degree,CV issue,Other,1.0,8,1.5
+SWE,166.0,1,Unemployed,Master's Degree,Career clarity,Other,0.0,0,0.5
+Data,272.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,6.0,8,5.0
+SWE,277.0,1,Unemployed,Master's Degree,CV issue,Green Card,1.0,50,1.5
+SWE,81.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,2.0,15,1.5
+SWE,174.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,1.0,70,5.0
+SWE,94.0,1,Student,Master's Degree,Tech issue,Green Card,0.0,50,0.5
+Design,129.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,10,1.5
+SWE,0.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,70,0.5
+SWE,163.0,1,Student,Bachelor's Degree,Interview skills,Other,0.0,15,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,4.0,60,0.5
+SWE,59.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,20.0,0,1.5
+SWE,83.0,1,Employed,GED or equivalent,Career clarity,Other,0.0,20,3.5
+SWE,227.0,1,Unemployed,Bachelor's Degree,CV issue,Other,2.0,3,0.5
+SWE,276.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,20,0.5
+SWE,86.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,10,5.0
+SWE,24.0,1,Employed,Bachelor's Degree,Interview skills,Green Card,1.0,30,0.5
+SWE,138.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,10,5.0
+SWE,94.0,1,Employed,Master's Degree,CV issue,Other,1.0,160,0.5
+SWE,225.0,0,Employed,Master's Degree,Interview skills,Citizen,1.0,35,1.5
+Design,286.0,0,Student,Master's Degree,Interview skills,Green Card,5.0,4,0.5
+SWE,112.0,0,Student,Master's Degree,Interview skills,Citizen,5.0,10,1.5
+PSO,76.0,1,Unemployed,Master's Degree,Career clarity,Citizen,0.0,25,5.0
+PSO,112.0,0,Unemployed,"Some College, No Degree",Interview skills,Other,1.0,6,3.5
+SWE,112.0,0,Employed,"Some College, No Degree",CV issue,Citizen,0.0,60,0.5
+Data,87.0,0,Student,Bachelor's Degree,CV issue,Other,3.0,15,0.5
+SWE,174.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,6.0,15,3.5
+SWE,298.0,1,Unemployed,"Some College, No Degree",Tech issue,Green Card,4.0,15,1.5
+SWE,143.0,1,Employed,Bachelor's Degree,Interview skills,Green Card,0.0,40,3.5
+SWE,177.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,20,0.5
+SWE,293.0,1,Student,Doctorate or Professional Degree,CV issue,Other,4.0,70,1.5
+SWE,142.0,1,Employed,Master's Degree,CV issue,Other,0.0,4,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,0.0,40,5.0
+SWE,106.0,1,Employed,Bachelor's Degree,Career clarity,Green Card,2.0,4,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,0.0,15,0.5
+Design,300.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,25,0.5
+SWE,37.0,1,Student,Master's Degree,CV issue,Other,1.0,20,5.0
+Design,300.0,0,Student,Bachelor's Degree,Career clarity,Other,1.0,20,1.5
+Design,122.0,1,Employed,Bachelor's Degree,Tech issue,Other,1.0,50,5.0
+Data,207.0,1,Unemployed,Doctorate or Professional Degree,CV issue,Other,5.0,60,1.5
+Design,110.0,0,Unemployed,Bachelor's Degree,CV issue,Other,1.0,60,1.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,0.0,8,1.5
+Data,261.0,0,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,5,3.5
+SWE,9.0,1,Employed,Master's Degree,Tech issue,Green Card,0.0,15,0.5
+SWE,107.0,1,Contractor,Bachelor's Degree,CV issue,Other,0.0,5,3.5
+Data,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,1,0.5
+SWE,86.0,1,Student,Bachelor's Degree,Interview skills,Citizen,5.0,3,3.5
+Design,272.0,1,Employed,Master's Degree,CV issue,Other,2.0,90,0.5
+SWE,141.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,2.0,190,3.5
+SWE,222.0,0,Employed,Doctorate or Professional Degree,CV issue,Citizen,2.0,40,3.5
+SWE,101.0,1,Employed,Bachelor's Degree,CV issue,Other,4.0,50,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,2.0,2,3.5
+SWE,86.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,25,5.0
+Data,142.0,1,Contractor,Bachelor's Degree,CV issue,Citizen,2.0,30,1.5
+PSO,249.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,100,3.5
+SWE,9.0,1,Unemployed,Bachelor's Degree,Tech issue,Green Card,0.0,4,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,0.0,40,1.5
+Design,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,3,0.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Other,5.0,35,1.5
+SWE,73.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,10,0.5
+Design,226.0,1,Unemployed,Master's Degree,Tech issue,Citizen,1.0,25,3.5
+SWE,208.0,1,Student,Master's Degree,Interview skills,Citizen,6.0,60,1.5
+SWE,156.0,1,Employed,Master's Degree,CV issue,Other,3.0,10,3.5
+SWE,159.0,1,Employed,Doctorate or Professional Degree,Interview skills,Other,0.0,50,0.5
+PSO,112.0,0,Student,Master's Degree,Interview skills,Other,3.0,15,3.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,5,1.5
+SWE,122.0,1,Contractor,Master's Degree,CV issue,Other,1.0,15,0.5
+Design,14.0,0,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,3,0.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,8.0,350,0.5
+Data,112.0,0,Employed,Master's Degree,Interview skills,Other,0.0,15,1.5
+SWE,0.0,0,Student,"Some College, No Degree",Tech issue,Other,5.0,6,3.5
+SWE,18.0,0,Student,Master's Degree,CV issue,Citizen,1.0,20,3.5
+PSO,41.0,0,Employed,Bachelor's Degree,CV issue,Green Card,2.0,200,1.5
+Design,112.0,0,Student,Master's Degree,CV issue,Other,1.0,6,1.5
+SWE,7.0,0,Student,Master's Degree,Interview skills,Other,0.0,15,1.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Citizen,5.0,10,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Tech issue,Citizen,0.0,10,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,1.0,5,1.5
+Design,82.0,1,Employed,Master's Degree,CV issue,Other,2.0,30,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,15,1.5
+Data,112.0,0,Employed,Doctorate or Professional Degree,CV issue,Citizen,2.0,50,3.5
+Data,0.0,0,Employed,Master's Degree,Tech issue,Other,2.0,20,1.5
+SWE,59.0,1,Student,Bachelor's Degree,CV issue,Other,8.0,20,1.5
+Data,137.0,1,Unemployed,"Some College, No Degree",Interview skills,Other,7.0,70,0.5
+SWE,143.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,10,3.5
+SWE,0.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,4.0,50,1.5
+SWE,28.0,1,Employed,Master's Degree,CV issue,Other,0.0,10,3.5
+PSO,144.0,0,Employed,Master's Degree,Career clarity,Other,1.0,50,1.5
+SWE,13.0,0,Employed,Master's Degree,CV issue,Citizen,4.0,0,0.5
+PSO,112.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,1.0,15,3.5
+Design,14.0,0,Employed,Master's Degree,Career clarity,Citizen,3.0,50,3.5
+SWE,220.0,0,Contractor,"Some College, No Degree",Career clarity,Other,0.0,70,1.5
+SWE,112.0,0,Unemployed,Master's Degree,Tech issue,Other,1.0,25,0.5
+Design,112.0,0,Student,Bachelor's Degree,Interview skills,Other,2.0,100,1.5
+SWE,112.0,0,Employed,Master's Degree,Tech issue,Green Card,0.0,2,0.5
+PSO,112.0,0,Unemployed,Doctorate or Professional Degree,Interview skills,Citizen,0.0,0,0.5
+PSO,13.0,0,Employed,Master's Degree,Career clarity,Other,10.0,30,1.5
+SWE,112.0,0,Unemployed,Master's Degree,Interview skills,Citizen,4.0,25,5.0
+Design,112.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,40,3.5
+SWE,107.0,1,Student,Master's Degree,CV issue,Other,1.0,30,3.5
+SWE,112.0,0,Contractor,Master's Degree,Career clarity,Citizen,0.0,2,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,60,5.0
+SWE,0.0,0,Employed,Doctorate or Professional Degree,Interview skills,Citizen,0.0,20,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,120,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,150,1.5
+SWE,112.0,0,Student,"Some College, No Degree",Career clarity,Citizen,4.0,15,5.0
+Data,112.0,0,Employed,Master's Degree,Interview skills,Green Card,0.0,25,1.5
+Design,10.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,1.0,15,3.5
+Design,123.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,100,1.5
+PSO,16.0,0,Unemployed,"Some College, No Degree",Career clarity,Citizen,0.0,9,1.5
+Data,14.0,0,Unemployed,Master's Degree,Career clarity,Green Card,1.0,10,1.5
+SWE,3.0,0,Employed,Master's Degree,CV issue,Other,3.0,6,0.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,3,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,35,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,150,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,10.0,120,5.0
+SWE,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,2.0,20,0.5
+Design,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,10,0.5
+SWE,112.0,0,Student,Master's Degree,Interview skills,Other,0.0,10,1.5
+SWE,0.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,10.0,100,1.5
+SWE,38.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,11.0,50,0.5
+SWE,130.0,1,Student,Bachelor's Degree,Interview skills,Green Card,15.0,10,5.0
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,20.0,90,1.5
+SWE,69.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,45,1.5
+SWE,117.0,1,Employed,Master's Degree,Interview skills,Citizen,1.0,20,0.5
+Data,12.0,0,Student,Bachelor's Degree,CV issue,Other,6.0,60,0.5
+Design,16.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,350,0.5
+PSO,48.0,0,Unemployed,Bachelor's Degree,CV issue,Other,2.0,100,5.0
+SWE,14.0,0,Contractor,Bachelor's Degree,Tech issue,Citizen,0.0,6,1.5
+SWE,15.0,0,Student,Master's Degree,Interview skills,Citizen,4.0,50,5.0
+PSO,112.0,0,Contractor,Master's Degree,Interview skills,Citizen,0.0,100,0.5
+Design,66.0,0,Student,Bachelor's Degree,Interview skills,Other,19.0,150,1.5
+SWE,76.0,1,Unemployed,Master's Degree,CV issue,Citizen,2.0,50,3.5
+SWE,83.0,1,Contractor,Bachelor's Degree,Tech issue,Citizen,0.0,0,1.5
+Design,112.0,0,Employed,Bachelor's Degree,CV issue,Other,2.0,100,1.5
+Data,0.0,0,Unemployed,Bachelor's Degree,CV issue,Green Card,1.0,150,5.0
+SWE,14.0,0,Student,Doctorate or Professional Degree,CV issue,Citizen,0.0,25,1.5
+SWE,112.0,0,Student,"Some College, No Degree",CV issue,Citizen,0.0,60,0.5
+SWE,82.0,1,Contractor,Master's Degree,CV issue,Citizen,0.0,0,1.5
+Design,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,50,0.5
+SWE,46.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,160,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,2,5.0
+SWE,0.0,0,Employed,Master's Degree,CV issue,Other,0.0,10,1.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,0,1.5
+Data,112.0,0,Student,Master's Degree,CV issue,Citizen,3.0,20,0.5
+PSO,12.0,0,Employed,Bachelor's Degree,CV issue,Other,0.0,8,3.5
+PSO,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,7.0,80,3.5
+Data,112.0,0,Student,Master's Degree,CV issue,Other,0.0,70,1.5
+SWE,2.0,0,Student,Bachelor's Degree,Interview skills,Citizen,5.0,10,0.5
+SWE,0.0,0,Employed,Bachelor's Degree,Interview skills,Other,4.0,7,1.5
+SWE,94.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,10,3.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Other,1.0,1,1.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,1.0,10,5.0
+SWE,19.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,45,3.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Green Card,1.0,30,1.5
+SWE,112.0,0,Student,Master's Degree,Interview skills,Other,3.0,7,1.5
+Data,57.0,1,Student,Bachelor's Degree,Career clarity,Citizen,2.0,70,5.0
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,0.0,6,0.5
+Data,15.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,9,3.5
+SWE,34.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,35,5.0
+SWE,46.0,0,Student,Master's Degree,Tech issue,Other,0.0,3,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,2.0,40,1.5
+Design,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,60,0.5
+PSO,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,3.0,7,0.5
+Data,112.0,0,Student,Master's Degree,Interview skills,Other,2.0,50,3.5
+Design,0.0,0,Employed,Master's Degree,Career clarity,Citizen,2.0,300,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Career clarity,Green Card,0.0,60,3.5
+Data,24.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,10.0,400,3.5
+Data,112.0,0,Contractor,Bachelor's Degree,Interview skills,Other,1.0,25,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,1.0,20,1.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,10,3.5
+PSO,14.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,0.0,100,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,4.0,0,5.0
+SWE,274.0,1,Employed,Bachelor's Degree,Interview skills,Other,2.0,20,5.0
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,0.0,10,1.5
+SWE,14.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,40,3.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,0.0,2,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,30,3.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Other,3.0,50,1.5
+Data,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,4.0,10,1.5
+PSO,12.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,0.0,9,3.5
+SWE,60.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,12.0,170,5.0
+PSO,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,3.0,10,1.5
+PSO,8.0,0,Student,Bachelor's Degree,Tech issue,Other,5.0,25,0.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Citizen,1.0,20,1.5
+PSO,112.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,0,1.5
+SWE,31.0,0,Employed,Bachelor's Degree,CV issue,Green Card,0.0,25,1.5
+Design,112.0,0,Student,Master's Degree,Career clarity,Other,0.0,50,1.5
+PSO,0.0,0,Contractor,Master's Degree,Tech issue,Citizen,1.0,6,0.5
+PSO,0.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,15,1.5
+PSO,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,50,0.5
+SWE,33.0,1,Unemployed,Bachelor's Degree,Tech issue,Green Card,10.0,400,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,7,1.5
+Design,112.0,0,Contractor,Bachelor's Degree,Interview skills,Green Card,4.0,40,1.5
+PSO,14.0,0,Unemployed,Bachelor's Degree,CV issue,Other,10.0,200,0.5
+PSO,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,3.0,40,5.0
+SWE,24.0,1,Student,"Some College, No Degree",Tech issue,Other,0.0,130,0.5
+SWE,38.0,1,Unemployed,"Some College, No Degree",CV issue,Citizen,5.0,100,0.5
+Design,38.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,30,5.0
+SWE,112.0,0,Contractor,Master's Degree,Interview skills,Other,0.0,0,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,300,0.5
+PSO,2.0,0,Contractor,Master's Degree,Career clarity,Citizen,2.0,50,3.5
+PSO,0.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,0,0.5
+SWE,111.0,1,Student,Master's Degree,Career clarity,Citizen,0.0,6,3.5
+Design,0.0,0,Unemployed,"Some College, No Degree",CV issue,Other,0.0,60,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Green Card,20.0,60,0.5
+SWE,9.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,0,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,4.0,15,0.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,6.0,15,0.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,8,5.0
+PSO,0.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,7.0,7,5.0
+Design,112.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,20,5.0
+SWE,0.0,0,Student,Master's Degree,CV issue,Other,1.0,8,3.5
+PSO,0.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,0.0,0,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,6.0,50,0.5
+Design,60.0,0,Student,Master's Degree,Interview skills,Other,3.0,60,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,3.0,100,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,4,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,3,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,7.0,40,1.5
+SWE,8.0,0,Unemployed,Master's Degree,CV issue,Other,4.0,9,3.5
+SWE,11.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,25,1.5
+Data,112.0,0,Employed,Bachelor's Degree,CV issue,Other,3.0,15,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,100,3.5
+SWE,13.0,0,Employed,"Some College, No Degree",Career clarity,Other,10.0,30,0.5
+SWE,112.0,0,Unemployed,Master's Degree,Tech issue,Other,1.0,1,1.5
+SWE,114.0,1,Unemployed,Bachelor's Degree,CV issue,Green Card,4.0,50,1.5
+SWE,45.0,1,Student,Bachelor's Degree,Interview skills,Other,0.0,50,0.5
+SWE,20.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,8,5.0
+Design,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,200,0.5
+SWE,0.0,0,Unemployed,Master's Degree,Interview skills,Citizen,5.0,30,1.5
+Design,112.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,0.0,15,1.5
+Data,13.0,0,Employed,Master's Degree,Interview skills,Other,0.0,0,3.5
+SWE,112.0,0,Unemployed,Master's Degree,CV issue,Green Card,0.0,15,3.5
+SWE,16.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,7.0,90,5.0
+SWE,32.0,1,Student,Bachelor's Degree,Interview skills,Other,3.0,150,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Other,0.0,10,0.5
+Data,14.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,6.0,500,1.5
+SWE,0.0,1,Employed,Bachelor's Degree,Interview skills,Green Card,0.0,8,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,0.0,7,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,10,3.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Citizen,2.0,15,0.5
+Design,112.0,0,Employed,Bachelor's Degree,CV issue,Other,1.0,20,1.5
+Data,9.0,0,Student,Bachelor's Degree,Career clarity,Other,0.0,30,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,70,3.5
+Data,254.0,0,Employed,Master's Degree,Interview skills,Citizen,2.0,8,5.0
+SWE,184.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,70,1.5
+Data,107.0,1,Employed,Master's Degree,Interview skills,Citizen,1.0,25,0.5
+SWE,9.0,0,Student,Master's Degree,CV issue,Citizen,0.0,4,1.5
+SWE,112.0,0,Employed,Doctorate or Professional Degree,CV issue,Other,0.0,25,1.5
+PSO,219.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,25,0.5
+PSO,296.0,0,Student,Bachelor's Degree,CV issue,Citizen,5.0,60,1.5
+SWE,82.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,6.0,40,3.5
+SWE,203.0,1,Contractor,Bachelor's Degree,Career clarity,Citizen,1.0,170,1.5
+SWE,54.0,1,Contractor,"Some College, No Degree",CV issue,Citizen,2.0,80,3.5
+SWE,196.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,5,3.5
+SWE,74.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,7,0.5
+SWE,9.0,0,Student,Master's Degree,CV issue,Citizen,5.0,25,0.5
+SWE,118.0,1,Employed,Bachelor's Degree,CV issue,Citizen,1.0,3,5.0
+SWE,73.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,50,1.5
+SWE,11.0,1,Student,Bachelor's Degree,Interview skills,Citizen,5.0,20,0.5
+SWE,192.0,1,Student,Master's Degree,Tech issue,Green Card,2.0,4,3.5
+SWE,163.0,1,Employed,Master's Degree,Interview skills,Citizen,2.0,70,3.5
+SWE,20.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,60,0.5
+SWE,115.0,1,Contractor,Bachelor's Degree,Tech issue,Citizen,3.0,2,3.5
+SWE,73.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,0.0,5,5.0
+SWE,332.0,1,Unemployed,Master's Degree,Tech issue,Other,0.0,60,1.5
+SWE,277.0,1,Contractor,Bachelor's Degree,CV issue,Other,4.0,15,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,100,3.5
+SWE,109.0,1,Unemployed,Master's Degree,CV issue,Green Card,3.0,60,3.5
+SWE,52.0,1,Contractor,"Some College, No Degree",Interview skills,Citizen,0.0,20,1.5
+SWE,128.0,1,Student,Bachelor's Degree,CV issue,Citizen,4.0,25,0.5
+SWE,320.0,1,Unemployed,Master's Degree,Interview skills,Citizen,0.0,3,1.5
+SWE,290.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,11.0,20,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,2.0,40,0.5
+SWE,292.0,1,Employed,Bachelor's Degree,CV issue,Green Card,2.0,150,0.5
+Data,331.0,1,Student,Bachelor's Degree,Career clarity,Citizen,1.0,25,0.5
+SWE,199.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,35,3.5
+SWE,114.0,1,Unemployed,Master's Degree,CV issue,Citizen,0.0,50,5.0
+SWE,303.0,1,Contractor,Bachelor's Degree,Career clarity,Citizen,2.0,30,1.5
+SWE,270.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,0,1.5
+SWE,31.0,1,Employed,Master's Degree,CV issue,Other,1.0,15,1.5
+SWE,34.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,0.0,15,1.5
+Design,179.0,1,Contractor,Master's Degree,CV issue,Green Card,5.0,7,5.0
+SWE,80.0,1,Student,Master's Degree,Career clarity,Other,4.0,40,1.5
+SWE,356.0,1,Unemployed,Bachelor's Degree,CV issue,Other,2.0,20,3.5
+SWE,272.0,1,Unemployed,Bachelor's Degree,CV issue,Other,5.0,70,0.5
+Design,145.0,1,Student,Master's Degree,Interview skills,Citizen,4.0,2,3.5
+Data,227.0,0,Employed,Bachelor's Degree,CV issue,Other,2.0,15,0.5
+SWE,339.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,80,1.5
+SWE,286.0,0,Contractor,Master's Degree,Tech issue,Other,3.0,9,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Citizen,4.0,50,1.5
+SWE,112.0,0,Unemployed,Master's Degree,Career clarity,Citizen,3.0,30,1.5
+SWE,48.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,50,0.5
+SWE,108.0,1,Employed,Master's Degree,CV issue,Citizen,0.0,45,5.0
+SWE,139.0,1,Unemployed,Master's Degree,Tech issue,Other,7.0,160,1.5
+SWE,183.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,2,1.5
+SWE,228.0,0,Student,Master's Degree,Interview skills,Other,0.0,0,0.5
+SWE,253.0,1,Student,"Some College, No Degree",CV issue,Other,0.0,50,1.5
+SWE,162.0,1,Student,Doctorate or Professional Degree,CV issue,Green Card,1.0,1,1.5
+SWE,55.0,1,Unemployed,Bachelor's Degree,CV issue,Other,11.0,20,5.0
+SWE,170.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,30,1.5
+SWE,221.0,1,Student,Bachelor's Degree,CV issue,Other,5.0,0,1.5
+SWE,40.0,1,Employed,GED or equivalent,Tech issue,Green Card,2.0,60,0.5
+SWE,74.0,1,Unemployed,Bachelor's Degree,Tech issue,Citizen,1.0,10,1.5
+SWE,10.0,1,Student,Master's Degree,CV issue,Citizen,0.0,10,1.5
+SWE,78.0,1,Student,Bachelor's Degree,Interview skills,Other,3.0,70,1.5
+SWE,129.0,1,Unemployed,Master's Degree,Interview skills,Citizen,1.0,10,1.5
+SWE,193.0,1,Student,Bachelor's Degree,Interview skills,Citizen,2.0,10,1.5
+SWE,77.0,1,Employed,Master's Degree,CV issue,Other,2.0,10,1.5
+SWE,125.0,1,Unemployed,Bachelor's Degree,Tech issue,Citizen,0.0,30,1.5
+SWE,65.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,10,3.5
+SWE,362.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,60,1.5
+SWE,0.0,0,Student,Bachelor's Degree,Tech issue,Other,2.0,30,0.5
+SWE,159.0,1,Employed,Bachelor's Degree,CV issue,Green Card,0.0,8,1.5
+SWE,114.0,1,Student,Master's Degree,Career clarity,Citizen,1.0,4,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Other,1.0,60,0.5
+SWE,185.0,1,Student,Master's Degree,Career clarity,Other,0.0,100,0.5
+SWE,68.0,1,Student,Bachelor's Degree,CV issue,Other,4.0,7,0.5
+Data,56.0,1,Employed,Bachelor's Degree,Tech issue,Other,0.0,15,3.5
+SWE,112.0,0,Employed,"Some College, No Degree",CV issue,Citizen,1.0,0,0.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,25,1.5
+SWE,34.0,1,Employed,"Some College, No Degree",Tech issue,Citizen,4.0,40,1.5
+SWE,75.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,20,1.5
+SWE,61.0,1,Student,Bachelor's Degree,Tech issue,Other,4.0,80,1.5
+SWE,93.0,1,Unemployed,Master's Degree,Tech issue,Citizen,2.0,7,1.5
+SWE,124.0,1,Unemployed,Bachelor's Degree,CV issue,Other,4.0,110,3.5
+PSO,61.0,1,Employed,Bachelor's Degree,Tech issue,Other,0.0,25,1.5
+SWE,236.0,1,Employed,Master's Degree,CV issue,Other,0.0,30,5.0
+SWE,234.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,40,0.5
+SWE,112.0,0,Employed,Master's Degree,Interview skills,Other,0.0,15,1.5
+SWE,213.0,0,Employed,Master's Degree,CV issue,Other,0.0,50,1.5
+SWE,254.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,10,0.5
+SWE,112.0,0,Student,Master's Degree,Interview skills,Citizen,1.0,120,1.5
+SWE,52.0,1,Student,Master's Degree,CV issue,Other,0.0,30,3.5
+Data,128.0,0,Student,Master's Degree,CV issue,Other,2.0,10,0.5
+SWE,130.0,1,Unemployed,Master's Degree,Tech issue,Citizen,0.0,15,0.5
+PSO,142.0,0,Employed,"Some College, No Degree",Career clarity,Citizen,2.0,30,1.5
+SWE,310.0,0,Employed,"Some College, No Degree",CV issue,Other,0.0,25,3.5
+SWE,58.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,11.0,10,1.5
+Design,142.0,0,Student,Master's Degree,Interview skills,Citizen,5.0,80,0.5
+SWE,107.0,1,Employed,Bachelor's Degree,CV issue,Citizen,4.0,15,0.5
+SWE,156.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,200,0.5
+SWE,101.0,1,Student,"Some College, No Degree",CV issue,Green Card,2.0,70,3.5
+Design,17.0,0,Unemployed,Master's Degree,Interview skills,Citizen,0.0,15,3.5
+Design,208.0,0,Employed,Doctorate or Professional Degree,CV issue,Citizen,1.0,100,1.5
+PSO,0.0,0,Student,Master's Degree,Interview skills,Other,0.0,60,0.5
+SWE,25.0,0,Unemployed,Bachelor's Degree,CV issue,Other,20.0,150,1.5
+SWE,109.0,1,Student,Master's Degree,CV issue,Other,2.0,150,1.5
+SWE,72.0,1,Employed,Bachelor's Degree,CV issue,Citizen,6.0,8,1.5
+SWE,331.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,1.0,9,1.5
+PSO,296.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,6.0,7,5.0
+SWE,254.0,0,Employed,Bachelor's Degree,Interview skills,Other,1.0,35,1.5
+SWE,80.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,90,0.5
+SWE,20.0,0,Employed,Master's Degree,CV issue,Other,5.0,10,5.0
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,1.0,60,1.5
+SWE,186.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,25,1.5
+PSO,135.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,1.0,35,1.5
+SWE,17.0,0,Student,Master's Degree,Career clarity,Citizen,0.0,10,1.5
+SWE,112.0,0,Employed,Master's Degree,Career clarity,Citizen,2.0,2,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,0.0,3,3.5
+SWE,195.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,0,0.5
+Design,180.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,19.0,6,1.5
+SWE,156.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,40,0.5
+Design,72.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,1.0,15,5.0
+Design,72.0,0,Student,GED or equivalent,Interview skills,Citizen,1.0,70,0.5
+SWE,13.0,0,Unemployed,Master's Degree,Career clarity,Other,4.0,6,1.5
+Design,235.0,1,Student,Master's Degree,CV issue,Other,1.0,90,1.5
+Design,331.0,1,Student,Master's Degree,CV issue,Citizen,1.0,40,1.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,0.0,4,1.5
+SWE,84.0,1,Employed,Doctorate or Professional Degree,Interview skills,Citizen,1.0,35,0.5
+SWE,153.0,1,Unemployed,Doctorate or Professional Degree,Interview skills,Other,7.0,30,1.5
+SWE,73.0,1,Student,Bachelor's Degree,Career clarity,Citizen,0.0,2,5.0
+SWE,174.0,1,Employed,Master's Degree,Interview skills,Citizen,0.0,20,1.5
+PSO,19.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,15,1.5
+Design,170.0,0,Employed,Bachelor's Degree,Tech issue,Green Card,1.0,60,0.5
+SWE,228.0,0,Employed,Bachelor's Degree,CV issue,Green Card,4.0,40,3.5
+SWE,282.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,60,3.5
+SWE,74.0,1,Employed,"Some College, No Degree",Interview skills,Citizen,2.0,2,0.5
+SWE,51.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,110,1.5
+Data,221.0,1,Employed,Master's Degree,CV issue,Other,2.0,7,3.5
+SWE,138.0,1,Unemployed,Master's Degree,CV issue,Citizen,0.0,1,0.5
+SWE,60.0,1,Employed,Master's Degree,CV issue,Citizen,5.0,170,3.5
+SWE,130.0,1,Employed,Doctorate or Professional Degree,Interview skills,Citizen,4.0,2,3.5
+SWE,92.0,1,Student,Master's Degree,Career clarity,Citizen,0.0,1,1.5
+SWE,90.0,1,Employed,Master's Degree,Interview skills,Other,0.0,50,5.0
+Data,129.0,1,Employed,Bachelor's Degree,Career clarity,Other,1.0,15,1.5
+Data,177.0,1,Employed,High School Graduate,CV issue,Other,5.0,70,1.5
+SWE,63.0,1,Student,Bachelor's Degree,CV issue,Green Card,1.0,70,3.5
+SWE,110.0,1,Unemployed,Master's Degree,Career clarity,Citizen,0.0,9,1.5
+PSO,45.0,1,Student,Master's Degree,Career clarity,Other,7.0,25,0.5
+SWE,83.0,1,Student,High School Graduate,Tech issue,Citizen,4.0,25,1.5
+SWE,72.0,1,Employed,Master's Degree,Interview skills,Other,1.0,35,5.0
+SWE,19.0,0,Unemployed,Master's Degree,Career clarity,Citizen,1.0,160,5.0
+SWE,93.0,1,Employed,Bachelor's Degree,Career clarity,Other,2.0,15,1.5
+Design,313.0,1,Contractor,Doctorate or Professional Degree,Career clarity,Other,1.0,25,0.5
+SWE,112.0,0,Contractor,Master's Degree,Career clarity,Citizen,1.0,9,0.5
+SWE,319.0,1,Employed,Master's Degree,Interview skills,Citizen,1.0,8,0.5
+SWE,97.0,1,Unemployed,Master's Degree,CV issue,Citizen,0.0,8,3.5
+SWE,64.0,1,Student,Master's Degree,Career clarity,Citizen,1.0,180,3.5
+Design,112.0,0,Employed,Master's Degree,Interview skills,Other,2.0,90,0.5
+SWE,332.0,1,Employed,Master's Degree,Interview skills,Citizen,6.0,170,1.5
+SWE,177.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,3.0,15,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,3.0,25,1.5
+SWE,109.0,1,Contractor,Bachelor's Degree,Interview skills,Citizen,2.0,10,3.5
+SWE,282.0,0,Student,Master's Degree,Career clarity,Other,1.0,130,0.5
+SWE,282.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,30,3.5
+SWE,191.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,0.0,30,3.5
+Data,268.0,0,Student,Master's Degree,CV issue,Other,1.0,20,1.5
+SWE,268.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,3,0.5
+SWE,268.0,0,Student,Master's Degree,Tech issue,Citizen,4.0,25,1.5
+SWE,70.0,1,Student,Master's Degree,CV issue,Citizen,2.0,35,1.5
+SWE,254.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,6.0,45,0.5
+SWE,59.0,1,Unemployed,Bachelor's Degree,CV issue,Other,3.0,80,1.5
+Design,45.0,1,Student,Master's Degree,Interview skills,Citizen,0.0,20,1.5
+PSO,342.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,20,3.5
+SWE,112.0,0,Unemployed,Master's Degree,Interview skills,Green Card,0.0,15,1.5
+Design,263.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,160,0.5
+SWE,164.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,4.0,25,1.5
+PSO,342.0,1,Unemployed,Master's Degree,CV issue,Citizen,1.0,45,0.5
+SWE,79.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,0.0,40,0.5
+Design,112.0,0,Unemployed,Master's Degree,CV issue,Other,4.0,15,1.5
+Data,354.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,180,0.5
+SWE,160.0,1,Unemployed,Bachelor's Degree,Career clarity,Other,5.0,50,0.5
+SWE,47.0,1,Student,Bachelor's Degree,Career clarity,Green Card,0.0,60,1.5
+SWE,32.0,1,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,70,5.0
+Design,293.0,0,Unemployed,Master's Degree,Career clarity,Citizen,7.0,25,5.0
+Design,101.0,0,Unemployed,"Some College, No Degree",CV issue,Green Card,6.0,1,5.0
+SWE,270.0,1,Student,Master's Degree,Interview skills,Other,1.0,15,5.0
+SWE,59.0,1,Contractor,Bachelor's Degree,Interview skills,Citizen,1.0,0,3.5
+SWE,53.0,1,Employed,Bachelor's Degree,Interview skills,Other,0.0,35,3.5
+SWE,190.0,1,Unemployed,Master's Degree,Interview skills,Citizen,7.0,130,1.5
+SWE,279.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,200,1.5
+SWE,37.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,3,0.5
+SWE,219.0,0,Unemployed,Bachelor's Degree,CV issue,Other,2.0,2,3.5
+Data,184.0,0,Student,Doctorate or Professional Degree,Interview skills,Citizen,0.0,170,1.5
+PSO,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,20.0,170,0.5
+SWE,73.0,1,Student,Master's Degree,Interview skills,Citizen,20.0,7,0.5
+SWE,62.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,140,3.5
+PSO,170.0,0,Employed,Bachelor's Degree,Career clarity,Green Card,1.0,60,3.5
+Design,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,20.0,25,1.5
+SWE,177.0,0,Contractor,"Some College, No Degree",CV issue,Citizen,0.0,7,1.5
+SWE,38.0,1,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,15,3.5
+Design,151.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,10.0,10,0.5
+SWE,64.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,7,3.5
+SWE,184.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,1.0,30,3.5
+PSO,184.0,0,Unemployed,Master's Degree,Interview skills,Green Card,3.0,20,1.5
+PSO,170.0,0,Unemployed,Master's Degree,Career clarity,Citizen,0.0,80,0.5
+PSO,170.0,0,Contractor,Bachelor's Degree,Interview skills,Citizen,1.0,30,0.5
+SWE,170.0,0,Student,GED or equivalent,Career clarity,Other,0.0,110,5.0
+SWE,153.0,1,Student,Bachelor's Degree,CV issue,Other,10.0,30,1.5
+SWE,62.0,1,Employed,Bachelor's Degree,CV issue,Other,8.0,15,1.5
+SWE,20.0,0,Employed,Master's Degree,Interview skills,Citizen,0.0,50,3.5
+SWE,16.0,0,Student,GED or equivalent,Tech issue,Green Card,0.0,45,0.5
+SWE,43.0,1,Contractor,Bachelor's Degree,Interview skills,Other,0.0,80,3.5
+SWE,30.0,1,Employed,Master's Degree,Career clarity,Other,2.0,70,1.5
+SWE,91.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,60,3.5
+SWE,187.0,1,Employed,Master's Degree,CV issue,Citizen,0.0,15,1.5
+SWE,51.0,1,Unemployed,Bachelor's Degree,CV issue,Green Card,0.0,1,1.5
+SWE,142.0,0,Unemployed,Master's Degree,Tech issue,Other,0.0,15,3.5
+SWE,142.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,15,0.5
+SWE,11.0,0,Student,Master's Degree,Tech issue,Citizen,0.0,70,1.5
+SWE,128.0,0,Student,Master's Degree,Career clarity,Citizen,0.0,3,0.5
+SWE,18.0,0,Employed,Master's Degree,CV issue,Other,1.0,30,5.0
+SWE,16.0,0,Unemployed,"Some College, No Degree",Interview skills,Other,2.0,70,1.5
+SWE,158.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,15,0.5
+SWE,65.0,1,Student,High School Graduate,CV issue,Other,0.0,20,0.5
+SWE,365.0,0,Student,Master's Degree,CV issue,Citizen,3.0,4,1.5
+Design,254.0,0,Student,Bachelor's Degree,Career clarity,Green Card,0.0,120,3.5
+Data,184.0,0,Student,Master's Degree,Career clarity,Citizen,2.0,60,5.0
+Design,360.0,0,Employed,Bachelor's Degree,Tech issue,Other,1.0,6,3.5
+SWE,184.0,0,Contractor,Master's Degree,CV issue,Other,5.0,15,1.5
+SWE,89.0,0,Student,Master's Degree,CV issue,Citizen,0.0,8,0.5
+SWE,25.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,10,1.5
+SWE,20.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,30,1.5
+SWE,153.0,1,Student,Bachelor's Degree,Interview skills,Citizen,1.0,15,1.5
+SWE,108.0,1,Employed,Bachelor's Degree,CV issue,Citizen,3.0,8,0.5
+SWE,61.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,2.0,30,3.5
+SWE,34.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,45,0.5
+Design,73.0,1,Employed,Bachelor's Degree,CV issue,Citizen,4.0,15,0.5
+SWE,130.0,1,Unemployed,Master's Degree,Tech issue,Other,20.0,30,5.0
+SWE,108.0,1,Student,Bachelor's Degree,Interview skills,Citizen,1.0,6,1.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,2.0,5,0.5
+SWE,53.0,1,Employed,Master's Degree,Tech issue,Citizen,7.0,50,5.0
+SWE,239.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,20,3.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,1.0,20,3.5
+SWE,51.0,1,Unemployed,Master's Degree,CV issue,Other,4.0,150,5.0
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Citizen,5.0,10,1.5
+Design,0.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,0.0,10,0.5
+PSO,0.0,0,Employed,Master's Degree,Career clarity,Citizen,0.0,15,0.5
+PSO,6.0,0,Unemployed,Doctorate or Professional Degree,Career clarity,Citizen,0.0,25,3.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Other,8.0,70,1.5
+PSO,112.0,0,Employed,Master's Degree,Career clarity,Citizen,1.0,25,3.5
+SWE,112.0,0,Employed,"Some College, No Degree",Tech issue,Citizen,4.0,80,3.5
+SWE,4.0,0,Student,Bachelor's Degree,Career clarity,Citizen,5.0,50,1.5
+PSO,112.0,0,Employed,"Some College, No Degree",Interview skills,Citizen,3.0,50,1.5
+PSO,0.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,0,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,200,1.5
+Data,112.0,0,Student,Doctorate or Professional Degree,Tech issue,Citizen,1.0,2,5.0
+SWE,21.0,0,Student,Bachelor's Degree,CV issue,Citizen,7.0,15,5.0
+Design,0.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,300,3.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,20,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,1.0,25,3.5
+PSO,66.0,0,Student,Bachelor's Degree,Interview skills,Other,3.0,15,1.5
+Data,0.0,0,Student,Bachelor's Degree,Career clarity,Other,3.0,60,3.5
+SWE,82.0,1,Employed,Bachelor's Degree,Tech issue,Green Card,0.0,0,0.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Citizen,2.0,50,3.5
+SWE,14.0,0,Contractor,Bachelor's Degree,CV issue,Other,1.0,200,0.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,40,1.5
+SWE,51.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,10,5.0
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Other,0.0,25,0.5
+SWE,0.0,0,Employed,Doctorate or Professional Degree,Career clarity,Other,0.0,400,0.5
+SWE,12.0,0,Student,Doctorate or Professional Degree,Interview skills,Citizen,2.0,30,3.5
+Design,0.0,0,Contractor,Master's Degree,CV issue,Citizen,0.0,10,3.5
+SWE,138.0,1,Student,Bachelor's Degree,Interview skills,Citizen,10.0,100,1.5
+SWE,0.0,0,Contractor,Master's Degree,Career clarity,Citizen,1.0,10,1.5
+SWE,0.0,0,Unemployed,Master's Degree,CV issue,Citizen,5.0,50,0.5
+SWE,112.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,0.0,20,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,9,0.5
+SWE,14.0,0,Student,Master's Degree,Career clarity,Other,4.0,1,0.5
+PSO,0.0,0,Contractor,Master's Degree,CV issue,Green Card,3.0,70,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,25,1.5
+SWE,12.0,0,Employed,Master's Degree,Tech issue,Other,0.0,90,0.5
+Design,115.0,1,Employed,"Some College, No Degree",Interview skills,Citizen,2.0,8,0.5
+Data,12.0,0,Student,Bachelor's Degree,Interview skills,Other,7.0,1,5.0
+SWE,112.0,0,Contractor,Master's Degree,Tech issue,Citizen,0.0,50,3.5
+Data,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,2.0,70,3.5
+Data,12.0,0,Student,Bachelor's Degree,Interview skills,Other,7.0,150,1.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Other,2.0,20,1.5
+SWE,11.0,0,Employed,Master's Degree,Tech issue,Citizen,2.0,10,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,15,1.5
+SWE,12.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,15,1.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,5,1.5
+Data,112.0,0,Student,Master's Degree,Tech issue,Other,2.0,5,5.0
+SWE,16.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,6,1.5
+PSO,23.0,0,Employed,Bachelor's Degree,Interview skills,Green Card,10.0,10,1.5
+SWE,6.0,0,Student,Master's Degree,CV issue,Other,5.0,30,0.5
+Design,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,0.0,0,1.5
+SWE,14.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,2.0,10,1.5
+PSO,9.0,0,Contractor,Master's Degree,Interview skills,Citizen,0.0,25,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Green Card,0.0,15,1.5
+PSO,112.0,0,Employed,"Some College, No Degree",CV issue,Citizen,1.0,35,3.5
+PSO,112.0,0,Student,Master's Degree,Career clarity,Other,1.0,70,1.5
+SWE,0.0,0,Student,Master's Degree,Tech issue,Other,1.0,9,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,2.0,4,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,35,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,3.0,35,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,1.0,10,3.5
+SWE,0.0,0,Student,Master's Degree,Interview skills,Other,1.0,20,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,4.0,100,0.5
+SWE,0.0,0,Student,Master's Degree,CV issue,Other,2.0,15,3.5
+SWE,112.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,5.0,15,5.0
+SWE,112.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,1.0,15,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,4.0,70,1.5
+SWE,0.0,0,Contractor,GED or equivalent,Interview skills,Citizen,2.0,7,1.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Other,3.0,50,1.5
+Data,22.0,1,Unemployed,Master's Degree,Tech issue,Other,4.0,30,0.5
+Data,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,4.0,45,0.5
+PSO,13.0,0,Unemployed,Master's Degree,Interview skills,Citizen,1.0,25,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,40,1.5
+PSO,112.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,15,3.5
+PSO,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,15,1.5
+SWE,7.0,0,Student,Bachelor's Degree,Tech issue,Citizen,4.0,8,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,10,0.5
+Design,44.0,1,Employed,Master's Degree,Interview skills,Other,1.0,3,0.5
+Design,7.0,0,Contractor,Bachelor's Degree,CV issue,Other,0.0,40,3.5
+SWE,112.0,0,Employed,Doctorate or Professional Degree,CV issue,Green Card,0.0,70,1.5
+SWE,11.0,0,Student,Master's Degree,Interview skills,Other,1.0,15,3.5
+Data,0.0,0,Student,Master's Degree,Interview skills,Other,7.0,90,0.5
+PSO,10.0,0,Student,High School Graduate,CV issue,Other,0.0,15,3.5
+SWE,112.0,0,Student,Bachelor's Degree,Tech issue,Citizen,0.0,7,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,60,1.5
+Data,112.0,0,Employed,Master's Degree,CV issue,Other,4.0,50,0.5
+SWE,0.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,10,1.5
+SWE,112.0,0,Employed,"Some College, No Degree",Career clarity,Green Card,4.0,40,3.5
+Other,112.0,0,Student,Bachelor's Degree,Career clarity,Other,5.0,35,5.0
+PSO,18.0,0,Unemployed,Master's Degree,Career clarity,Green Card,1.0,3,1.5
+Data,112.0,0,Unemployed,Doctorate or Professional Degree,Tech issue,Other,1.0,10,1.5
+Other,0.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,15,1.5
+Data,14.0,0,Employed,Doctorate or Professional Degree,CV issue,Citizen,5.0,15,3.5
+Design,112.0,0,Employed,Master's Degree,CV issue,Citizen,1.0,30,1.5
+Data,15.0,0,Unemployed,Master's Degree,Career clarity,Green Card,0.0,8,1.5
+SWE,14.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,15,3.5
+SWE,112.0,0,Student,Doctorate or Professional Degree,CV issue,Citizen,0.0,25,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Other,7.0,40,1.5
+PSO,10.0,0,Employed,Bachelor's Degree,CV issue,Green Card,2.0,45,1.5
+PSO,11.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,30,0.5
+Data,28.0,1,Unemployed,Master's Degree,Interview skills,Other,4.0,200,1.5
+PSO,0.0,0,Unemployed,Doctorate or Professional Degree,Tech issue,Other,0.0,5,1.5
+SWE,13.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,10.0,100,3.5
+SWE,40.0,1,Unemployed,Bachelor's Degree,CV issue,Other,5.0,200,0.5
+PSO,16.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,60,0.5
+PSO,112.0,0,Contractor,Master's Degree,CV issue,Citizen,0.0,15,1.5
+SWE,132.0,1,Employed,Bachelor's Degree,Tech issue,Other,0.0,45,5.0
+SWE,192.0,0,Employed,Master's Degree,Tech issue,Other,0.0,30,0.5
+SWE,16.0,0,Unemployed,Master's Degree,Interview skills,Citizen,1.0,30,3.5
+Design,142.0,1,Employed,Master's Degree,Tech issue,Citizen,4.0,9,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,7.0,25,3.5
+SWE,93.0,1,Student,Bachelor's Degree,CV issue,Citizen,10.0,15,5.0
+SWE,212.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,0,3.5
+SWE,227.0,1,Student,Bachelor's Degree,Interview skills,Green Card,0.0,15,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Other,5.0,140,3.5
+SWE,101.0,1,Student,Bachelor's Degree,Interview skills,Other,2.0,7,1.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Green Card,7.0,25,1.5
+SWE,194.0,1,Employed,Bachelor's Degree,CV issue,Other,4.0,1,3.5
+SWE,136.0,1,Student,Master's Degree,Interview skills,Green Card,1.0,0,1.5
+SWE,16.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,2.0,50,1.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Other,2.0,15,1.5
+SWE,0.0,0,Unemployed,Master's Degree,Tech issue,Citizen,9.0,10,3.5
+SWE,112.0,0,Student,Master's Degree,Career clarity,Green Card,0.0,45,5.0
+Design,112.0,0,Student,Master's Degree,CV issue,Other,0.0,80,0.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,1.0,45,3.5
+PSO,0.0,0,Contractor,Master's Degree,Interview skills,Other,0.0,6,1.5
+PSO,0.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,50,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,7.0,6,1.5
+SWE,0.0,0,Student,Master's Degree,CV issue,Other,0.0,4,0.5
+Data,112.0,0,Student,Master's Degree,CV issue,Other,0.0,20,3.5
+SWE,6.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,7,0.5
+PSO,112.0,0,Student,Master's Degree,CV issue,Green Card,3.0,15,0.5
+SWE,4.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,6.0,4,1.5
+Design,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,4.0,20,0.5
+Data,112.0,0,Student,Doctorate or Professional Degree,Interview skills,Other,4.0,10,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,4.0,7,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,2.0,2,1.5
+Design,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,2.0,30,1.5
+Design,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,2.0,8,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,3.0,10,5.0
+PSO,18.0,0,Employed,Master's Degree,Career clarity,Citizen,5.0,20,3.5
+SWE,28.0,0,Employed,Bachelor's Degree,Tech issue,Other,5.0,0,3.5
+SWE,112.0,0,Unemployed,Doctorate or Professional Degree,Career clarity,Citizen,2.0,0,0.5
+SWE,112.0,0,Student,Bachelor's Degree,Tech issue,Other,0.0,2,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,10,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,4.0,3,3.5
+SWE,0.0,0,Student,Bachelor's Degree,Career clarity,Citizen,4.0,130,3.5
+SWE,112.0,0,Unemployed,Master's Degree,Career clarity,Citizen,0.0,30,1.5
+PSO,0.0,0,Employed,Bachelor's Degree,Interview skills,Other,1.0,150,0.5
+Data,112.0,0,Student,Master's Degree,Interview skills,Other,5.0,10,1.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,3.0,9,1.5
+SWE,112.0,0,Student,Master's Degree,Career clarity,Citizen,1.0,70,5.0
+SWE,112.0,0,Employed,Master's Degree,Tech issue,Citizen,1.0,50,3.5
+PSO,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Green Card,0.0,8,3.5
+PSO,112.0,0,Employed,Master's Degree,Interview skills,Green Card,2.0,0,5.0
+PSO,112.0,0,Employed,Master's Degree,CV issue,Other,6.0,10,3.5
+Data,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,70,1.5
+SWE,112.0,0,Unemployed,Doctorate or Professional Degree,CV issue,Other,0.0,9,1.5
+SWE,112.0,0,Student,"Some College, No Degree",Tech issue,Other,0.0,10,0.5
+SWE,112.0,0,Student,"Some College, No Degree",CV issue,Citizen,1.0,80,0.5
+PSO,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,3,0.5
+Data,112.0,0,Employed,Doctorate or Professional Degree,CV issue,Other,0.0,0,3.5
+PSO,112.0,0,Employed,Master's Degree,Interview skills,Citizen,0.0,110,0.5
+Design,6.0,0,Employed,Bachelor's Degree,Interview skills,Green Card,1.0,60,3.5
+PSO,0.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,3.0,40,0.5
+Data,90.0,0,Unemployed,Master's Degree,CV issue,Citizen,2.0,100,0.5
+SWE,34.0,1,Unemployed,Master's Degree,CV issue,Green Card,4.0,20,0.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,5,1.5
+PSO,8.0,0,Employed,Master's Degree,CV issue,Other,4.0,30,0.5
+SWE,48.0,1,Student,Bachelor's Degree,Interview skills,Citizen,10.0,20,1.5
+PSO,14.0,0,Unemployed,Master's Degree,CV issue,Citizen,1.0,35,5.0
+SWE,95.0,1,Student,Bachelor's Degree,CV issue,Other,2.0,60,5.0
+SWE,112.0,0,Student,Doctorate or Professional Degree,CV issue,Other,2.0,10,3.5
+Data,14.0,0,Student,"Some College, No Degree",CV issue,Other,0.0,3,1.5
+Data,4.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,70,3.5
+SWE,9.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,10,1.5
+Data,0.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,1.0,5,1.5
+Design,112.0,0,Contractor,Bachelor's Degree,Interview skills,Citizen,1.0,15,1.5
+Design,112.0,0,Employed,Master's Degree,Interview skills,Other,0.0,80,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,1,0.5
+PSO,13.0,0,Student,Master's Degree,CV issue,Other,4.0,15,1.5
+SWE,7.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,35,0.5
+SWE,14.0,0,Unemployed,Master's Degree,Interview skills,Citizen,0.0,200,1.5
+SWE,0.0,0,Contractor,Master's Degree,Interview skills,Other,3.0,45,3.5
+SWE,112.0,0,Student,Master's Degree,Career clarity,Other,3.0,6,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Other,1.0,8,5.0
+PSO,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,90,3.5
+PSO,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,3.0,150,3.5
+SWE,0.0,0,Student,Some High School,CV issue,Other,0.0,7,5.0
+SWE,112.0,0,Student,Bachelor's Degree,Tech issue,Other,2.0,8,1.5
+PSO,112.0,0,Contractor,Master's Degree,CV issue,Citizen,6.0,20,0.5
+Data,112.0,0,Student,Doctorate or Professional Degree,CV issue,Other,1.0,45,0.5
+PSO,112.0,0,Student,Doctorate or Professional Degree,CV issue,Other,0.0,1,3.5
+PSO,112.0,0,Student,Master's Degree,Career clarity,Citizen,0.0,60,0.5
+Data,112.0,0,Contractor,Master's Degree,Interview skills,Other,2.0,2,0.5
+PSO,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,6.0,5,3.5
+PSO,0.0,0,Unemployed,Master's Degree,Interview skills,Other,4.0,40,3.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Other,0.0,20,1.5
+SWE,209.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,10,1.5
+Data,0.0,0,Employed,Bachelor's Degree,CV issue,Other,0.0,35,5.0
+Design,112.0,0,Contractor,Bachelor's Degree,CV issue,Other,0.0,15,1.5
+SWE,112.0,0,Employed,Master's Degree,Tech issue,Other,1.0,5,1.5
+Data,258.0,1,Student,Bachelor's Degree,Interview skills,Citizen,1.0,1,0.5
+SWE,298.0,1,Unemployed,Master's Degree,CV issue,Citizen,0.0,9,3.5
+SWE,73.0,1,Student,Bachelor's Degree,CV issue,Other,4.0,8,3.5
+SWE,212.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,0,5.0
+SWE,189.0,1,Unemployed,Doctorate or Professional Degree,CV issue,Other,1.0,20,1.5
+Data,250.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,10,0.5
+SWE,171.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,40,1.5
+Design,112.0,0,Student,Master's Degree,Career clarity,Other,0.0,7,1.5
+Design,12.0,1,Student,Bachelor's Degree,CV issue,Citizen,2.0,6,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,2.0,60,3.5
+SWE,34.0,1,Unemployed,"Some College, No Degree",CV issue,Other,1.0,15,1.5
+SWE,0.0,0,Unemployed,Master's Degree,Interview skills,Citizen,1.0,20,1.5
+SWE,112.0,0,Student,"Some College, No Degree",Interview skills,Green Card,3.0,8,3.5
+SWE,201.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,1.0,25,1.5
+PSO,219.0,1,Employed,Bachelor's Degree,CV issue,Other,1.0,70,0.5
+PSO,55.0,1,Student,Bachelor's Degree,Interview skills,Citizen,5.0,60,0.5
+SWE,0.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,15,0.5
+SWE,10.0,0,Employed,Master's Degree,Career clarity,Citizen,3.0,7,0.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Other,5.0,30,1.5
+SWE,258.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,8,3.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,2.0,60,5.0
+Design,10.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,0.0,60,3.5
+SWE,173.0,1,Student,Bachelor's Degree,CV issue,Citizen,1.0,45,0.5
+SWE,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,1.0,15,3.5
+SWE,1.0,1,Contractor,Doctorate or Professional Degree,CV issue,Citizen,1.0,15,0.5
+SWE,314.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,45,1.5
+SWE,309.0,1,Student,"Some College, No Degree",Career clarity,Citizen,4.0,45,1.5
+SWE,219.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,10,1.5
+SWE,34.0,0,Employed,Bachelor's Degree,Career clarity,Other,0.0,60,3.5
+PSO,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,7,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,4.0,15,1.5
+SWE,267.0,1,Student,"Some College, No Degree",CV issue,Citizen,6.0,45,3.5
+SWE,31.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,45,3.5
+PSO,300.0,1,Student,Master's Degree,CV issue,Citizen,5.0,10,0.5
+SWE,108.0,0,Student,Master's Degree,Tech issue,Other,0.0,50,0.5
+Design,40.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,15,0.5
+PSO,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,6.0,4,0.5
+SWE,13.0,0,Unemployed,Master's Degree,CV issue,Citizen,1.0,15,0.5
+PSO,32.0,0,Student,Bachelor's Degree,Tech issue,Other,4.0,15,3.5
+SWE,123.0,1,Employed,Master's Degree,CV issue,Other,0.0,60,1.5
+Design,112.0,0,Student,Master's Degree,Career clarity,Other,1.0,7,1.5
+SWE,159.0,1,Unemployed,"Some College, No Degree",CV issue,Citizen,0.0,30,3.5
+SWE,298.0,0,Student,Master's Degree,CV issue,Citizen,0.0,10,0.5
+SWE,19.0,0,Student,Master's Degree,Interview skills,Other,0.0,3,3.5
+SWE,338.0,1,Unemployed,Bachelor's Degree,Career clarity,Other,4.0,1,0.5
+SWE,112.0,0,Employed,"Some College, No Degree",CV issue,Citizen,1.0,30,1.5
+SWE,6.0,0,Contractor,Master's Degree,CV issue,Citizen,0.0,1,5.0
+SWE,111.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,4.0,50,0.5
+SWE,7.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,1.0,40,3.5
+Design,79.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,50,1.5
+SWE,121.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,0,3.5
+Design,246.0,0,Employed,Bachelor's Degree,CV issue,Citizen,4.0,20,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,0.0,50,0.5
+Design,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,70,0.5
+SWE,112.0,0,Unemployed,Master's Degree,Interview skills,Other,4.0,15,1.5
+Data,257.0,1,Employed,Master's Degree,Career clarity,Other,5.0,15,1.5
+SWE,324.0,1,Student,Bachelor's Degree,CV issue,Other,2.0,40,0.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,0,0.5
+SWE,112.0,0,Student,Master's Degree,Career clarity,Other,0.0,10,1.5
+SWE,132.0,0,Student,Master's Degree,CV issue,Other,1.0,10,3.5
+SWE,167.0,1,Student,"Some College, No Degree",CV issue,Citizen,3.0,15,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,25,1.5
+SWE,5.0,0,Student,Doctorate or Professional Degree,Interview skills,Citizen,0.0,15,0.5
+SWE,129.0,0,Employed,Bachelor's Degree,Career clarity,Other,1.0,25,1.5
+SWE,0.0,0,Employed,Bachelor's Degree,Tech issue,Other,1.0,80,3.5
+Design,112.0,0,Student,"Some College, No Degree",Tech issue,Other,0.0,4,1.5
+SWE,2.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,80,1.5
+SWE,223.0,1,Employed,Bachelor's Degree,CV issue,Citizen,1.0,35,0.5
+SWE,74.0,0,Student,Master's Degree,CV issue,Citizen,6.0,15,1.5
+Data,247.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,70,1.5
+PSO,2.0,0,Student,Master's Degree,Interview skills,Citizen,0.0,20,3.5
+SWE,0.0,0,Student,Master's Degree,CV issue,Citizen,0.0,180,1.5
+SWE,361.0,0,Employed,Bachelor's Degree,CV issue,Other,9.0,20,1.5
+SWE,4.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,2.0,45,0.5
+SWE,356.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,6.0,25,3.5
+Design,112.0,0,Unemployed,"Some College, No Degree",CV issue,Other,0.0,30,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,10,1.5
+SWE,112.0,0,Employed,Doctorate or Professional Degree,Interview skills,Green Card,3.0,10,1.5
+SWE,274.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,50,0.5
+PSO,159.0,1,Employed,High School Graduate,CV issue,Citizen,14.0,4,0.5
+SWE,285.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,2,1.5
+SWE,112.0,0,Student,Doctorate or Professional Degree,CV issue,Citizen,0.0,20,5.0
+SWE,0.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,14.0,25,3.5
+SWE,338.0,1,Unemployed,Bachelor's Degree,Tech issue,Other,0.0,15,1.5
+PSO,112.0,0,Employed,Master's Degree,Interview skills,Other,0.0,80,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Other,2.0,35,3.5
+Design,112.0,0,Employed,Bachelor's Degree,Interview skills,Other,0.0,190,5.0
+SWE,332.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,7,1.5
+SWE,112.0,0,Student,"Some College, No Degree",Career clarity,Citizen,5.0,15,0.5
+Data,312.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,5.0,30,1.5
+SWE,330.0,1,Employed,Doctorate or Professional Degree,Tech issue,Other,7.0,15,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Career clarity,Other,0.0,40,1.5
+SWE,294.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,16.0,45,1.5
+SWE,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,25,1.5
+PSO,269.0,1,Student,Master's Degree,Tech issue,Other,0.0,20,1.5
+Data,71.0,1,Unemployed,Master's Degree,CV issue,Citizen,1.0,2,5.0
+SWE,344.0,0,Student,Bachelor's Degree,Tech issue,Citizen,0.0,40,3.5
+SWE,227.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,2.0,15,1.5
+PSO,112.0,0,Contractor,Bachelor's Degree,Interview skills,Other,0.0,45,1.5
+PSO,112.0,0,Student,Master's Degree,Tech issue,Other,1.0,90,0.5
+Data,9.0,0,Student,Master's Degree,Career clarity,Citizen,0.0,10,1.5
+SWE,6.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,3.0,5,1.5
+SWE,265.0,0,Student,Bachelor's Degree,Interview skills,Other,1.0,6,1.5
+SWE,282.0,1,Unemployed,Master's Degree,Interview skills,Citizen,4.0,40,3.5
+SWE,277.0,1,Student,Master's Degree,Tech issue,Citizen,0.0,15,0.5
+Design,287.0,1,Unemployed,"Some College, No Degree",Interview skills,Citizen,3.0,6,5.0
+Design,270.0,1,Unemployed,Bachelor's Degree,Tech issue,Citizen,0.0,10,1.5
+SWE,5.0,0,Student,Some High School,CV issue,Citizen,0.0,9,0.5
+SWE,227.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,3,0.5
+SWE,197.0,0,Employed,"Some College, No Degree",CV issue,Other,1.0,2,5.0
+SWE,13.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,3.0,35,1.5
+SWE,217.0,1,Employed,Bachelor's Degree,Interview skills,Other,4.0,4,0.5
+SWE,278.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,6,1.5
+SWE,56.0,1,Student,Master's Degree,Career clarity,Other,0.0,45,3.5
+SWE,39.0,1,Contractor,Master's Degree,CV issue,Other,7.0,25,0.5
+SWE,8.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,120,3.5
+PSO,5.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,50,5.0
+SWE,45.0,1,Employed,Master's Degree,Career clarity,Other,0.0,35,1.5
+SWE,173.0,0,Employed,Bachelor's Degree,Tech issue,Other,2.0,10,0.5
+Data,0.0,0,Unemployed,Master's Degree,Tech issue,Citizen,0.0,60,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,50,5.0
+SWE,220.0,1,Employed,"Some College, No Degree",Interview skills,Other,2.0,3,0.5
+SWE,155.0,1,Student,Bachelor's Degree,CV issue,Citizen,1.0,25,1.5
+PSO,137.0,1,Student,Doctorate or Professional Degree,Interview skills,Citizen,0.0,7,1.5
+PSO,112.0,0,Student,Master's Degree,CV issue,Other,2.0,35,1.5
+PSO,268.0,1,Employed,Master's Degree,Career clarity,Other,0.0,15,3.5
+SWE,223.0,1,Student,Doctorate or Professional Degree,CV issue,Other,2.0,10,0.5
+Design,171.0,0,Unemployed,Doctorate or Professional Degree,Career clarity,Other,3.0,190,0.5
+PSO,113.0,0,Employed,"Some College, No Degree",Tech issue,Citizen,0.0,15,1.5
+PSO,112.0,0,Student,Bachelor's Degree,CV issue,Other,3.0,20,1.5
+SWE,119.0,1,Student,Master's Degree,Tech issue,Other,0.0,20,0.5
+SWE,214.0,1,Employed,Master's Degree,Tech issue,Other,1.0,30,0.5
+PSO,112.0,0,Student,Doctorate or Professional Degree,CV issue,Other,2.0,2,3.5
+SWE,112.0,0,Employed,Master's Degree,Tech issue,Citizen,4.0,10,3.5
+SWE,140.0,1,Student,Bachelor's Degree,CV issue,Other,1.0,1,0.5
+SWE,212.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,8,0.5
+SWE,299.0,0,Employed,Bachelor's Degree,Interview skills,Other,2.0,25,1.5
+SWE,75.0,1,Student,Bachelor's Degree,CV issue,Citizen,0.0,35,1.5
+SWE,112.0,0,Unemployed,Master's Degree,Interview skills,Green Card,4.0,20,0.5
+PSO,0.0,0,Unemployed,Master's Degree,CV issue,Other,0.0,25,1.5
+PSO,329.0,1,Employed,Master's Degree,CV issue,Citizen,2.0,130,5.0
+SWE,3.0,0,Student,High School Graduate,CV issue,Other,0.0,8,3.5
+PSO,37.0,1,Employed,Bachelor's Degree,CV issue,Citizen,2.0,40,3.5
+Data,0.0,0,Employed,Master's Degree,Interview skills,Other,0.0,15,1.5
+Design,131.0,1,Unemployed,Master's Degree,CV issue,Green Card,4.0,25,3.5
+SWE,112.0,0,Employed,Master's Degree,Career clarity,Citizen,0.0,15,5.0
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,80,1.5
+Design,181.0,0,Unemployed,Bachelor's Degree,CV issue,Green Card,0.0,60,3.5
+SWE,155.0,1,Student,Bachelor's Degree,CV issue,Other,3.0,10,1.5
+Design,341.0,0,Student,Bachelor's Degree,Tech issue,Green Card,0.0,50,1.5
+Data,145.0,1,Contractor,Bachelor's Degree,CV issue,Other,7.0,60,1.5
+PSO,151.0,0,Unemployed,Doctorate or Professional Degree,CV issue,Other,3.0,9,3.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,10,0.5
+SWE,0.0,0,Unemployed,Master's Degree,Interview skills,Citizen,0.0,20,0.5
+PSO,0.0,0,Student,Bachelor's Degree,CV issue,Other,7.0,45,1.5
+PSO,220.0,0,Employed,"Some College, No Degree",CV issue,Green Card,0.0,45,0.5
+SWE,167.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,20,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,5.0,120,0.5
+PSO,24.0,1,Student,Master's Degree,Career clarity,Other,2.0,15,0.5
+PSO,0.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,0.0,30,3.5
+SWE,110.0,0,Student,Bachelor's Degree,Career clarity,Other,0.0,170,1.5
+SWE,131.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,2,3.5
+SWE,12.0,0,Unemployed,Master's Degree,Interview skills,Citizen,0.0,160,0.5
+PSO,215.0,1,Employed,Bachelor's Degree,Career clarity,Other,1.0,80,3.5
+SWE,162.0,0,Employed,Master's Degree,CV issue,Other,0.0,20,1.5
+SWE,211.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,7.0,70,0.5
+SWE,96.0,1,Student,Some High School,CV issue,Citizen,6.0,70,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,10,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,20,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Career clarity,Green Card,0.0,50,0.5
+PSO,343.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,25,5.0
+SWE,40.0,0,Employed,Bachelor's Degree,CV issue,Citizen,6.0,60,5.0
+PSO,206.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,1.0,20,3.5
+SWE,137.0,1,Student,Master's Degree,CV issue,Other,1.0,110,1.5
+SWE,0.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,0.0,4,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,2.0,35,3.5
+PSO,112.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,60,1.5
+Design,281.0,1,Employed,Master's Degree,CV issue,Citizen,3.0,35,1.5
+SWE,165.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,3.0,30,1.5
+PSO,3.0,0,Student,"Some College, No Degree",Tech issue,Citizen,0.0,200,3.5
+Design,5.0,0,Employed,Master's Degree,CV issue,Citizen,7.0,45,0.5
+SWE,32.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,15,3.5
+SWE,257.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,15,0.5
+SWE,190.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,20,0.5
+SWE,112.0,0,Contractor,Master's Degree,Career clarity,Green Card,0.0,20,1.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,6.0,6,3.5
+SWE,4.0,0,Student,Master's Degree,CV issue,Other,0.0,70,0.5
+SWE,0.0,0,Employed,Bachelor's Degree,CV issue,Citizen,1.0,15,3.5
+SWE,331.0,1,Employed,Master's Degree,Interview skills,Citizen,1.0,20,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,45,0.5
+SWE,5.0,0,Unemployed,Master's Degree,CV issue,Citizen,4.0,15,3.5
+SWE,173.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,90,3.5
+SWE,7.0,0,Employed,Master's Degree,CV issue,Other,4.0,50,1.5
+Design,9.0,0,Unemployed,"Some College, No Degree",CV issue,Other,5.0,170,0.5
+Data,174.0,1,Student,Bachelor's Degree,Tech issue,Other,0.0,30,0.5
+SWE,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,2.0,10,0.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Citizen,0.0,0,0.5
+PSO,308.0,1,Student,Bachelor's Degree,Career clarity,Other,2.0,15,0.5
+Design,258.0,1,Student,Bachelor's Degree,CV issue,Other,1.0,8,5.0
+Data,112.0,0,Student,Master's Degree,Career clarity,Citizen,0.0,6,1.5
+SWE,237.0,1,Student,Master's Degree,Interview skills,Citizen,0.0,15,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Green Card,2.0,40,3.5
+PSO,176.0,1,Unemployed,Master's Degree,Interview skills,Citizen,0.0,8,0.5
+SWE,364.0,0,Employed,Master's Degree,Tech issue,Citizen,18.0,30,3.5
+PSO,353.0,0,Unemployed,Master's Degree,CV issue,Other,4.0,140,0.5
+SWE,112.0,0,Unemployed,Master's Degree,Interview skills,Citizen,1.0,20,1.5
+SWE,5.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,25,5.0
+SWE,112.0,0,Unemployed,"Some College, No Degree",CV issue,Other,0.0,15,0.5
+SWE,255.0,1,Student,Master's Degree,Interview skills,Citizen,1.0,20,5.0
+SWE,156.0,1,Unemployed,Bachelor's Degree,Tech issue,Other,2.0,35,3.5
+SWE,0.0,0,Student,Doctorate or Professional Degree,Interview skills,Green Card,0.0,35,1.5
+SWE,112.0,0,Employed,Bachelor's Degree,CV issue,Other,5.0,7,5.0
+SWE,114.0,0,Contractor,Bachelor's Degree,Interview skills,Green Card,5.0,80,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,4.0,60,0.5
+SWE,112.0,0,Unemployed,Master's Degree,Career clarity,Other,0.0,25,3.5
+Data,112.0,0,Student,"Some College, No Degree",CV issue,Other,0.0,180,0.5
+Design,112.0,0,Student,Bachelor's Degree,CV issue,Other,1.0,3,3.5
+PSO,42.0,0,Employed,Master's Degree,CV issue,Green Card,3.0,15,0.5
+SWE,312.0,1,Student,Doctorate or Professional Degree,Interview skills,Citizen,1.0,4,0.5
+SWE,12.0,0,Contractor,Bachelor's Degree,Tech issue,Other,0.0,8,1.5
+SWE,131.0,1,Student,Bachelor's Degree,CV issue,Other,6.0,10,1.5
+Data,3.0,0,Student,Bachelor's Degree,CV issue,Citizen,2.0,4,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,4,1.5
+SWE,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,4.0,30,1.5
+Design,2.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,4.0,25,0.5
+Data,111.0,1,Student,Bachelor's Degree,CV issue,Citizen,2.0,25,3.5
+SWE,276.0,1,Student,Master's Degree,CV issue,Citizen,1.0,15,0.5
+PSO,112.0,0,Student,Master's Degree,Interview skills,Other,3.0,30,1.5
+SWE,83.0,1,Student,Bachelor's Degree,CV issue,Citizen,6.0,45,0.5
+Data,98.0,1,Employed,Bachelor's Degree,CV issue,Citizen,3.0,2,3.5
+PSO,112.0,0,Student,Master's Degree,CV issue,Other,7.0,1,0.5
+Data,252.0,0,Employed,Bachelor's Degree,CV issue,Other,2.0,6,0.5
+SWE,240.0,1,Contractor,"Some College, No Degree",Interview skills,Other,1.0,0,5.0
+SWE,125.0,1,Student,Bachelor's Degree,CV issue,Other,1.0,60,3.5
+SWE,255.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,35,1.5
+SWE,167.0,0,Student,Bachelor's Degree,CV issue,Citizen,1.0,35,5.0
+SWE,298.0,1,Student,Bachelor's Degree,CV issue,Other,1.0,150,3.5
+Design,3.0,0,Student,Bachelor's Degree,Career clarity,Other,0.0,10,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,15,0.5
+SWE,319.0,1,Contractor,Bachelor's Degree,Tech issue,Citizen,6.0,6,3.5
+SWE,208.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,15,5.0
+SWE,290.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,30,1.5
+SWE,112.0,0,Unemployed,Master's Degree,Career clarity,Other,3.0,7,3.5
+SWE,224.0,1,Employed,Master's Degree,Career clarity,Citizen,2.0,35,0.5
+Data,4.0,1,Student,Bachelor's Degree,Career clarity,Other,5.0,25,3.5
+PSO,8.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,1.0,20,1.5
+SWE,141.0,0,Employed,Bachelor's Degree,Interview skills,Other,4.0,15,1.5
+SWE,3.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,25,0.5
+Design,169.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,15,5.0
+PSO,38.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,45,0.5
+PSO,61.0,1,Student,Bachelor's Degree,Interview skills,Other,0.0,50,1.5
+PSO,326.0,1,Student,Bachelor's Degree,Interview skills,Citizen,0.0,30,1.5
+SWE,300.0,1,Employed,Bachelor's Degree,Interview skills,Green Card,2.0,2,5.0
+SWE,148.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,2,1.5
+SWE,13.0,0,Employed,Bachelor's Degree,CV issue,Green Card,1.0,1,1.5
+SWE,322.0,1,Student,High School Graduate,CV issue,Other,0.0,40,1.5
+PSO,23.0,1,Unemployed,Master's Degree,CV issue,Citizen,1.0,90,5.0
+SWE,41.0,1,Unemployed,Master's Degree,CV issue,Other,0.0,35,1.5
+SWE,34.0,0,Employed,Master's Degree,CV issue,Citizen,5.0,0,1.5
+SWE,245.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,4.0,8,5.0
+SWE,168.0,1,Student,Master's Degree,Career clarity,Other,5.0,70,3.5
+SWE,135.0,1,Unemployed,Master's Degree,CV issue,Citizen,5.0,7,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,20,3.5
+SWE,255.0,1,Student,Bachelor's Degree,Career clarity,Other,3.0,1,1.5
+Design,112.0,0,Employed,Some High School,CV issue,Other,4.0,7,1.5
+SWE,128.0,0,Student,Bachelor's Degree,Interview skills,Other,4.0,30,3.5
+SWE,59.0,1,Student,Bachelor's Degree,Career clarity,Other,3.0,1,1.5
+SWE,0.0,0,Student,Bachelor's Degree,Tech issue,Other,1.0,8,5.0
+SWE,162.0,1,Contractor,Master's Degree,Tech issue,Citizen,0.0,10,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,9,1.5
+SWE,99.0,0,Employed,Bachelor's Degree,Interview skills,Green Card,6.0,30,1.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Citizen,4.0,8,1.5
+Other,214.0,1,Employed,Master's Degree,CV issue,Citizen,0.0,60,1.5
+SWE,10.0,0,Employed,Bachelor's Degree,CV issue,Citizen,2.0,2,3.5
+Data,1.0,1,Employed,Bachelor's Degree,Career clarity,Other,4.0,15,5.0
+SWE,1.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,5,0.5
+SWE,254.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,1.0,40,1.5
+SWE,7.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,20,3.5
+PSO,25.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,15,1.5
+PSO,112.0,0,Unemployed,Master's Degree,CV issue,Other,3.0,60,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,35,3.5
+SWE,0.0,0,Employed,Bachelor's Degree,Tech issue,Other,1.0,2,3.5
+SWE,1.0,0,Student,Master's Degree,CV issue,Citizen,4.0,25,1.5
+Data,243.0,1,Student,Bachelor's Degree,CV issue,Citizen,1.0,3,1.5
+SWE,12.0,0,Contractor,Bachelor's Degree,CV issue,Other,0.0,20,5.0
+SWE,240.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,9,0.5
+Design,4.0,0,Contractor,Bachelor's Degree,CV issue,Citizen,0.0,0,5.0
+Design,330.0,1,Student,"Some College, No Degree",Tech issue,Citizen,0.0,40,3.5
+SWE,205.0,1,Employed,Master's Degree,CV issue,Citizen,4.0,10,5.0
+Data,112.0,0,Unemployed,Master's Degree,Interview skills,Other,0.0,60,1.5
+SWE,253.0,1,Contractor,Bachelor's Degree,CV issue,Citizen,4.0,40,1.5
+Data,48.0,1,Employed,Doctorate or Professional Degree,Career clarity,Citizen,0.0,25,3.5
+PSO,0.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,1.0,25,0.5
+SWE,177.0,1,Employed,Bachelor's Degree,Interview skills,Other,3.0,60,1.5
+SWE,112.0,0,Employed,Master's Degree,Career clarity,Citizen,3.0,15,3.5
+SWE,112.0,0,Employed,Bachelor's Degree,Tech issue,Green Card,3.0,40,1.5
+SWE,37.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,7,1.5
+SWE,0.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,7.0,8,0.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Citizen,2.0,1,1.5
+SWE,341.0,1,Student,Master's Degree,Career clarity,Other,2.0,100,0.5
+SWE,11.0,1,Student,Bachelor's Degree,CV issue,Citizen,5.0,3,0.5
+SWE,67.0,0,Employed,Doctorate or Professional Degree,Interview skills,Citizen,0.0,45,3.5
+SWE,50.0,1,Contractor,Master's Degree,Career clarity,Other,3.0,30,1.5
+SWE,0.0,0,Unemployed,Master's Degree,CV issue,Other,2.0,50,3.5
+SWE,278.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,5.0,160,1.5
+SWE,260.0,1,Employed,Master's Degree,Interview skills,Citizen,3.0,9,1.5
+SWE,13.0,0,Employed,Doctorate or Professional Degree,CV issue,Citizen,0.0,20,3.5
+SWE,5.0,0,Unemployed,Bachelor's Degree,Interview skills,Green Card,1.0,15,5.0
+Data,246.0,1,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,2,1.5
+SWE,225.0,0,Contractor,Master's Degree,Tech issue,Other,1.0,30,0.5
+SWE,0.0,0,Unemployed,Master's Degree,CV issue,Citizen,1.0,0,0.5
+Design,150.0,0,Unemployed,Bachelor's Degree,Career clarity,Green Card,0.0,70,1.5
+SWE,0.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,15,0.5
+SWE,56.0,1,Employed,Master's Degree,Career clarity,Citizen,4.0,10,5.0
+SWE,112.0,0,Student,Master's Degree,Career clarity,Green Card,1.0,15,1.5
+Design,237.0,1,Unemployed,Bachelor's Degree,CV issue,Other,0.0,50,0.5
+SWE,6.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,0.0,30,0.5
+SWE,82.0,1,Employed,Doctorate or Professional Degree,CV issue,Citizen,6.0,40,0.5
+SWE,342.0,1,Unemployed,Master's Degree,Tech issue,Citizen,1.0,100,5.0
+Data,131.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,25,3.5
+SWE,6.0,0,Employed,Bachelor's Degree,CV issue,Other,3.0,80,1.5
+SWE,8.0,0,Student,Bachelor's Degree,Tech issue,Citizen,3.0,35,0.5
+Design,112.0,0,Employed,Master's Degree,CV issue,Other,1.0,30,5.0
+SWE,112.0,0,Student,Master's Degree,Career clarity,Other,4.0,45,0.5
+SWE,7.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,7.0,35,0.5
+SWE,10.0,0,Student,Master's Degree,CV issue,Other,1.0,70,3.5
+SWE,326.0,0,Employed,Bachelor's Degree,Career clarity,Other,2.0,10,1.5
+Data,281.0,1,Student,Bachelor's Degree,Interview skills,Other,1.0,30,1.5
+Design,112.0,0,Student,Master's Degree,CV issue,Green Card,0.0,40,1.5
+Data,151.0,1,Employed,Master's Degree,Tech issue,Other,0.0,90,1.5
+SWE,150.0,0,Student,Some High School,CV issue,Citizen,2.0,9,0.5
+SWE,220.0,1,Student,Master's Degree,Career clarity,Other,2.0,60,0.5
+Design,133.0,1,Student,Master's Degree,CV issue,Citizen,0.0,30,1.5
+SWE,78.0,0,Student,Master's Degree,CV issue,Citizen,3.0,50,0.5
+Data,112.0,0,Contractor,Bachelor's Degree,Interview skills,Citizen,0.0,110,0.5
+SWE,194.0,1,Student,Master's Degree,CV issue,Other,0.0,5,1.5
+PSO,112.0,0,Student,Bachelor's Degree,Interview skills,Other,0.0,20,3.5
+SWE,199.0,0,Student,Bachelor's Degree,CV issue,Other,5.0,30,5.0
+SWE,274.0,0,Unemployed,Master's Degree,CV issue,Other,2.0,5,0.5
+SWE,138.0,1,Unemployed,Master's Degree,CV issue,Green Card,1.0,50,1.5
+Data,103.0,0,Employed,Master's Degree,Interview skills,Green Card,1.0,20,0.5
+SWE,112.0,0,Student,Master's Degree,Interview skills,Other,1.0,45,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,0,1.5
+SWE,0.0,0,Unemployed,Bachelor's Degree,CV issue,Green Card,0.0,70,0.5
+SWE,112.0,0,Employed,Master's Degree,CV issue,Citizen,4.0,15,3.5
+SWE,172.0,1,Employed,Master's Degree,Tech issue,Citizen,2.0,1,3.5
+Design,0.0,0,Employed,Bachelor's Degree,Tech issue,Green Card,1.0,2,0.5
+PSO,11.0,0,Employed,Master's Degree,Interview skills,Citizen,0.0,80,5.0
+Data,112.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,1.0,2,0.5
+PSO,112.0,0,Unemployed,Master's Degree,Interview skills,Other,1.0,40,1.5
+SWE,112.0,0,Unemployed,"Some College, No Degree",CV issue,Other,2.0,10,1.5
+SWE,261.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,25,5.0
+Data,183.0,1,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,70,3.5
+Data,0.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,4.0,40,3.5
+SWE,6.0,0,Student,Bachelor's Degree,Tech issue,Citizen,14.0,15,5.0
+SWE,9.0,0,Contractor,Bachelor's Degree,Career clarity,Citizen,2.0,30,1.5
+PSO,179.0,1,Employed,Bachelor's Degree,Interview skills,Other,1.0,30,3.5
+SWE,0.0,0,Unemployed,Master's Degree,Interview skills,Other,4.0,30,3.5
+SWE,136.0,1,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,15,3.5
+SWE,345.0,1,Unemployed,Master's Degree,CV issue,Citizen,1.0,90,1.5
+Data,112.0,0,Unemployed,Master's Degree,Tech issue,Citizen,1.0,20,1.5
+SWE,300.0,0,Employed,Master's Degree,Career clarity,Citizen,1.0,40,3.5
+SWE,191.0,0,Student,Master's Degree,CV issue,Green Card,0.0,35,1.5
+PSO,2.0,0,Unemployed,Bachelor's Degree,Career clarity,Citizen,0.0,10,3.5
+PSO,359.0,0,Contractor,Master's Degree,CV issue,Citizen,0.0,50,0.5
+SWE,14.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,2.0,70,1.5
+SWE,11.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,60,0.5
+Design,322.0,1,Unemployed,Bachelor's Degree,Tech issue,Other,3.0,70,3.5
+SWE,171.0,1,Employed,Bachelor's Degree,CV issue,Green Card,0.0,120,3.5
+SWE,8.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,9,0.5
+Data,154.0,0,Employed,Bachelor's Degree,Tech issue,Other,0.0,20,3.5
+SWE,80.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,30,0.5
+SWE,187.0,1,Unemployed,Master's Degree,Career clarity,Citizen,0.0,15,0.5
+SWE,112.0,0,Student,Bachelor's Degree,Interview skills,Citizen,2.0,20,3.5
+PSO,232.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,35,1.5
+PSO,195.0,1,Student,Bachelor's Degree,CV issue,Other,0.0,0,1.5
+SWE,64.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,5.0,30,1.5
+SWE,335.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,0.0,40,1.5
+SWE,138.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,9,3.5
+SWE,133.0,1,Employed,Bachelor's Degree,CV issue,Other,4.0,8,3.5
+Design,326.0,1,Student,Master's Degree,CV issue,Other,0.0,40,0.5
+SWE,361.0,0,Unemployed,Bachelor's Degree,CV issue,Other,2.0,60,1.5
+SWE,112.0,0,Unemployed,Master's Degree,CV issue,Other,1.0,15,1.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,50,0.5
+SWE,146.0,1,Contractor,Bachelor's Degree,CV issue,Citizen,0.0,10,3.5
+Design,87.0,1,Student,Master's Degree,Interview skills,Citizen,1.0,35,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,4.0,20,0.5
+SWE,7.0,0,Unemployed,Bachelor's Degree,CV issue,Other,1.0,35,1.5
+SWE,57.0,0,Student,Bachelor's Degree,Interview skills,Other,4.0,40,1.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,160,0.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,3.0,20,1.5
+SWE,153.0,1,Contractor,Master's Degree,CV issue,Citizen,2.0,50,0.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Citizen,1.0,30,0.5
+SWE,1.0,0,Contractor,"Some College, No Degree",Career clarity,Other,1.0,70,1.5
+SWE,185.0,1,Contractor,Master's Degree,CV issue,Citizen,0.0,30,0.5
+SWE,19.0,1,Unemployed,"Some College, No Degree",CV issue,Citizen,3.0,40,0.5
+SWE,196.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,25,1.5
+PSO,161.0,1,Contractor,Bachelor's Degree,Interview skills,Green Card,0.0,40,5.0
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,2.0,20,0.5
+Design,52.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,0.0,10,1.5
+PSO,112.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,15,3.5
+Other,226.0,0,Student,Bachelor's Degree,Interview skills,Citizen,0.0,70,5.0
+Design,208.0,0,Unemployed,"Some College, No Degree",Career clarity,Green Card,3.0,0,0.5
+Data,137.0,0,Student,Bachelor's Degree,Tech issue,Other,2.0,140,5.0
+SWE,340.0,1,Employed,Bachelor's Degree,CV issue,Other,0.0,30,1.5
+SWE,160.0,0,Employed,Bachelor's Degree,CV issue,Other,1.0,1,3.5
+SWE,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,1.0,50,0.5
+SWE,35.0,1,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,70,1.5
+Data,321.0,0,Unemployed,Bachelor's Degree,CV issue,Other,3.0,5,3.5
+Design,160.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,1.0,60,0.5
+SWE,112.0,0,Student,"Some College, No Degree",CV issue,Other,5.0,45,3.5
+Data,6.0,0,Student,Master's Degree,Interview skills,Other,0.0,45,5.0
+SWE,105.0,0,Employed,Master's Degree,Interview skills,Citizen,5.0,25,1.5
+PSO,127.0,1,Employed,Bachelor's Degree,CV issue,Other,20.0,70,5.0
+SWE,4.0,0,Unemployed,Master's Degree,CV issue,Other,1.0,15,1.5
+SWE,114.0,1,Employed,Bachelor's Degree,Tech issue,Other,0.0,0,1.5
+SWE,33.0,1,Unemployed,Bachelor's Degree,CV issue,Other,6.0,45,1.5
+PSO,112.0,0,Unemployed,"Some College, No Degree",CV issue,Citizen,1.0,1,1.5
+Data,323.0,0,Employed,Bachelor's Degree,Tech issue,Citizen,1.0,45,1.5
+SWE,311.0,1,Employed,Bachelor's Degree,Career clarity,Other,5.0,50,1.5
+SWE,276.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,45,3.5
+Data,301.0,1,Student,Bachelor's Degree,Interview skills,Citizen,3.0,7,1.5
+SWE,293.0,1,Student,Master's Degree,CV issue,Citizen,1.0,9,5.0
+SWE,112.0,0,Employed,Master's Degree,CV issue,Other,2.0,3,0.5
+PSO,129.0,1,Unemployed,Bachelor's Degree,Tech issue,Citizen,4.0,25,3.5
+SWE,112.0,0,Student,Master's Degree,CV issue,Green Card,0.0,15,5.0
+Design,37.0,0,Employed,Master's Degree,Tech issue,Citizen,0.0,50,0.5
+SWE,8.0,0,Student,Bachelor's Degree,Interview skills,Citizen,1.0,25,5.0
+Data,260.0,1,Student,Master's Degree,Interview skills,Other,4.0,35,1.5
+Design,7.0,0,Student,Master's Degree,Interview skills,Other,0.0,15,5.0
+SWE,229.0,1,Employed,Master's Degree,Career clarity,Citizen,2.0,15,3.5
+SWE,112.0,0,Unemployed,Master's Degree,Tech issue,Green Card,2.0,40,5.0
+SWE,197.0,1,Contractor,Bachelor's Degree,Interview skills,Citizen,1.0,120,3.5
+Data,171.0,1,Student,Bachelor's Degree,Career clarity,Other,7.0,9,0.5
+Data,13.0,1,Unemployed,Bachelor's Degree,CV issue,Other,1.0,5,1.5
+Data,119.0,1,Unemployed,Master's Degree,CV issue,Citizen,1.0,70,3.5
+SWE,78.0,0,Contractor,"Some College, No Degree",CV issue,Other,4.0,25,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,1.0,30,1.5
+SWE,0.0,0,Student,Bachelor's Degree,Interview skills,Green Card,0.0,6,0.5
+PSO,117.0,1,Employed,Master's Degree,CV issue,Citizen,0.0,25,1.5
+SWE,303.0,1,Student,Bachelor's Degree,Interview skills,Citizen,4.0,35,1.5
+Design,0.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,45,1.5
+PSO,112.0,0,Unemployed,Bachelor's Degree,Tech issue,Other,4.0,70,1.5
+PSO,112.0,0,Unemployed,Master's Degree,CV issue,Citizen,0.0,35,1.5
+Design,0.0,0,Student,Master's Degree,Interview skills,Citizen,4.0,40,5.0
+PSO,112.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,8,1.5
+SWE,261.0,1,Unemployed,Bachelor's Degree,CV issue,Citizen,0.0,10,1.5
+Data,30.0,1,Student,Bachelor's Degree,Interview skills,Citizen,3.0,15,0.5
+SWE,11.0,0,Student,Master's Degree,CV issue,Other,0.0,5,3.5
+SWE,53.0,1,Student,Bachelor's Degree,Career clarity,Citizen,5.0,35,5.0
+SWE,257.0,1,Employed,Bachelor's Degree,Career clarity,Other,0.0,3,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Other,0.0,8,1.5
+SWE,6.0,0,Employed,Bachelor's Degree,CV issue,Other,0.0,35,1.5
+SWE,197.0,0,Employed,Bachelor's Degree,Interview skills,Other,1.0,25,1.5
+Data,287.0,1,Employed,Master's Degree,CV issue,Other,2.0,15,3.5
+PSO,170.0,1,Unemployed,Master's Degree,CV issue,Citizen,4.0,2,1.5
+SWE,13.0,0,Employed,Master's Degree,CV issue,Citizen,0.0,100,0.5
+SWE,180.0,0,Employed,Bachelor's Degree,CV issue,Citizen,5.0,30,5.0
+SWE,0.0,0,Employed,Bachelor's Degree,Career clarity,Citizen,4.0,80,3.5
+SWE,2.0,0,Student,Bachelor's Degree,CV issue,Citizen,20.0,140,1.5
+SWE,112.0,0,Employed,"Some College, No Degree",Interview skills,Other,6.0,35,0.5
+SWE,139.0,0,Unemployed,Bachelor's Degree,Tech issue,Citizen,0.0,140,0.5
+Design,112.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,2.0,15,5.0
+SWE,112.0,0,Student,Master's Degree,Interview skills,Citizen,1.0,30,1.5
+PSO,10.0,0,Employed,Bachelor's Degree,CV issue,Citizen,3.0,70,3.5
+Data,112.0,0,Employed,"Some College, No Degree",CV issue,Citizen,1.0,15,3.5
+SWE,363.0,0,Employed,Master's Degree,CV issue,Other,2.0,9,1.5
+Design,229.0,1,Contractor,Bachelor's Degree,Interview skills,Other,0.0,3,0.5
+SWE,12.0,0,Contractor,Master's Degree,CV issue,Citizen,3.0,20,1.5
+SWE,301.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,9,3.5
+SWE,112.0,0,Student,Master's Degree,Tech issue,Other,4.0,2,1.5
+SWE,10.0,0,Unemployed,Bachelor's Degree,CV issue,Other,0.0,60,1.5
+Design,0.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,1.0,70,0.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,6.0,50,1.5
+SWE,131.0,1,Employed,Doctorate or Professional Degree,CV issue,Other,4.0,0,3.5
+SWE,112.0,0,Student,Bachelor's Degree,CV issue,Citizen,0.0,15,1.5
+SWE,308.0,1,Employed,Master's Degree,Interview skills,Citizen,3.0,60,0.5
+SWE,11.0,0,Unemployed,Master's Degree,Tech issue,Citizen,1.0,10,1.5
+Data,92.0,1,Employed,Master's Degree,Interview skills,Citizen,2.0,15,1.5
+Data,334.0,1,Employed,Bachelor's Degree,CV issue,Citizen,0.0,30,0.5
+SWE,0.0,0,Employed,Master's Degree,CV issue,Other,20.0,3,1.5
+SWE,146.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,1.0,15,3.5
+SWE,303.0,1,Unemployed,Bachelor's Degree,Interview skills,Other,2.0,6,1.5
+PSO,13.0,0,Unemployed,Bachelor's Degree,Interview skills,Other,2.0,30,5.0
+PSO,223.0,0,Student,"Some College, No Degree",CV issue,Citizen,0.0,45,3.5
+PSO,112.0,0,Employed,High School Graduate,Interview skills,Other,3.0,25,1.5
+SWE,35.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,5.0,10,1.5
+SWE,344.0,1,Student,Master's Degree,Interview skills,Other,1.0,1,1.5
+PSO,0.0,0,Student,Bachelor's Degree,Interview skills,Green Card,1.0,25,5.0
+SWE,112.0,0,Student,Bachelor's Degree,Career clarity,Other,0.0,80,3.5
+SWE,78.0,1,Student,Master's Degree,CV issue,Citizen,5.0,200,0.5
+Design,112.0,0,Unemployed,Bachelor's Degree,Interview skills,Citizen,0.0,20,3.5
+SWE,7.0,0,Employed,Bachelor's Degree,Interview skills,Citizen,4.0,50,1.5
+SWE,0.0,0,Contractor,Bachelor's Degree,CV issue,Other,3.0,20,3.5
+PSO,16.0,1,Student,"Some College, No Degree",Career clarity,Other,4.0,6,1.5
+SWE,306.0,1,Student,Master's Degree,CV issue,Other,0.0,130,0.5
+SWE,74.0,0,Employed,Bachelor's Degree,CV issue,Citizen,4.0,35,1.5
+SWE,112.0,0,Employed,Doctorate or Professional Degree,Tech issue,Other,7.0,4,0.5
+PSO,9.0,0,Unemployed,Bachelor's Degree,CV issue,Citizen,4.0,15,3.5
+Design,277.0,1,Student,Doctorate or Professional Degree,Tech issue,Other,0.0,45,5.0
+SWE,119.0,1,Employed,Bachelor's Degree,Interview skills,Citizen,0.0,10,1.5
+SWE,118.0,0,Employed,Master's Degree,Career clarity,Other,1.0,25,5.0
+SWE,112.0,0,Contractor,Bachelor's Degree,Tech issue,Citizen,1.0,30,1.5
+SWE,285.0,0,Student,Master's Degree,CV issue,Green Card,3.0,70,1.5
