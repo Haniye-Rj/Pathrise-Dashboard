@@ -128,3 +128,5 @@ Follow the steps below to run the project:
 ## Deployed Application
 
 [https://pathrise-dashboard.streamlit.app/](https://pathrise-dashboard.streamlit.app/)
+for accessing admin role, Username: admin
+Password: admin123
