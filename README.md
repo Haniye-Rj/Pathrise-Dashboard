@@ -58,19 +58,23 @@ The project is developed in **two main parts**:
 Follow the steps below to run the project:
 
 1. Download the dataset from the link provided above.
-2. Run the `cleaning_Model_dev` file using the downloaded dataset to perform data cleaning, preprocessing, and model training. This step generates the required model artifacts and the cleaned CSV file.
-3. To run the application, ensure the following files are present in the root directory:
+2. Instal dependencies:
+```bash
+   pip install -r requirements.txt
+   ```
+4. Run the `cleaning_Model_dev` file using the downloaded dataset to perform data cleaning, preprocessing, and model training. This step generates the required model artifacts and the cleaned CSV file.
+5. To run the application, ensure the following files are present in the root directory:
 
    * `app.py` – Main Streamlit application
    * `rf_model.pkl` – Trained Random Forest model
    * `scaler.pkl` – StandardScaler object
    * `model_columns.pkl` – List of training features
-4. Start the application by running:
+6. Start the application by running:
 
    ```bash
    streamlit run app.py
    ```
-5. To view the **data dashboard**, upload the cleaned CSV file generated from the preprocessing step into the application.
+7. To view the **data dashboard**, upload the cleaned CSV file generated from the preprocessing step into the application.
 
 ---
 
@@ -128,5 +132,7 @@ Follow the steps below to run the project:
 ## Deployed Application
 
 [https://pathrise-dashboard.streamlit.app/](https://pathrise-dashboard.streamlit.app/)
+
+
 for accessing admin role, Username: admin
 Password: admin123
