@@ -1,69 +1,130 @@
+# Pathrise Project – README
 
-# Pathrise Placement Predictor & Data Dashboard 
-
-A comprehensive Streamlit-based web application that predicts job placement success for Pathrise applicants using **Random Forest Classifier**. The tool features a secure login system with tiered access, interactive Plotly visualizations, a SQL-backed dataset library, and real-time inference.
-
-## Project Overview
-
-This project serves as a career-tech tool to help job seekers understand their placement probability based on historical data. It demonstrates a full data pipeline: **Wrangling → SQL Persistence → Machine Learning → Interactive Presentation**.
-
-### Key Features
-
-* **Tiered User System (RBAC):** Distinct privileges for `Admin` (full data access) and `Basic` (calculator only) users.
-* **Secure Authentication:** User accounts stored in SQLite with **SHA-256 password hashing**.
-* **ML Predictor:** Real-time prediction using a Random Forest model trained on Pathrise applicant data.
-* **Data Explorer & Library:** Users can upload CSVs, save them to a server-side library, and analyze them across multiple tabs.
-* **Advanced Analytics:** 10+ interactive Plotly charts, including Sunburst, Heatmaps, and success-rate analysis.
-* **SQL Integration:** Automated logging of every prediction and a relational library for dataset management.
+**Student:**
+Haniyeh Raji
+**Student ID:** 488209
 
 ---
 
-## Dataset Explanation: Pathrise Applicants
+## Project Description
 
-The dataset used to train the model represents real-world applicant data from Pathrise, a career accelerator.
+Pathrise is a career accelerator founded in 2017 in San Francisco. The company was created from the founders’ desire to *systematize* the often random and high-stress job search process for tech professionals. The dataset used in this project contains **2,544 entries and 16 columns**, representing real-world applicant information.
 
-### Features Used in the Model:
+In this project, historical data from Pathrise was used to develop a **machine learning classification model** that predicts whether a new candidate has a realistic chance of finding a job within a timeframe that is considered logical for the company. The target variable of the model is **job placement success**.
 
-| Feature | Type | Description |
-| --- | --- | --- |
-| `primary_track` | Categorical | The applicant's field (SWE, Data, Design, etc.). |
-| `employment_status` | Categorical | Current work status (Student, Employed, etc.). |
-| `highest_level_of_education` | Categorical | The user's degree (Bachelor's, Master's, etc.). |
-| `work_authorization_status` | Categorical | Visa/Citizenship status. |
-| `number_of_applications` | Numeric | Count of jobs applied to. |
-| `number_of_interviews` | Numeric | Count of interviews secured. |
-| `professional_experience_num` | Numeric | Years of relevant professional experience. |
-| `program_duration_days` | Numeric | Days spent in the Pathrise program. |
+In addition to the predictive model, a **dashboard application** was developed for administrators to explore the dataset, analyze feature behavior, and gain business insights. This dashboard is designed to support decision-making and stakeholder reporting. The project demonstrates a complete data pipeline including **data wrangling, machine learning, interactive visualization, secure authentication, and SQL persistence**.
+
+The final solution is implemented as a **Streamlit-based web application** that combines real-time prediction, analytics, and data management functionality.
+
+---
+
+## Dataset
+
+**Original dataset link:**
+[https://www.kaggle.com/api/v1/datasets/download/ahmadmakhdoomi/pathrise-dataset?dataset_version_number=1](https://www.kaggle.com/api/v1/datasets/download/ahmadmakhdoomi/pathrise-dataset?dataset_version_number=1)
+(Access: anyone with the link can view/download)
+
+**Dataset Explanation: Pathrise Applicants**
+
+The dataset represents real-world applicant data collected by Pathrise.
+
+**Features used in the model:**
+
+* **primary_track (Categorical):** Applicant’s field (SWE, Data, Design, etc.)
+* **employment_status (Categorical):** Current work status (Student, Employed, etc.)
+* **highest_level_of_education (Categorical):** Degree level (Bachelor’s, Master’s, etc.)
+* **work_authorization_status (Categorical):** Visa or citizenship status
+* **number_of_applications (Numeric):** Number of jobs applied to
+* **number_of_interviews (Numeric):** Number of interviews received
+* **professional_experience_num (Numeric):** Years of professional experience
+* **program_duration_days (Numeric):** Days spent in the Pathrise program
 
 **Target Variable:**
 
-* `placed`: A binary indicator (1 = Placed, 0 = Not Placed).
+* **placed:** Binary variable (1 = Placed, 0 = Not Placed)
+
+**Note:**
+Dataset file names were kept exactly as in the original download.
+
+---
+
+## How to Run
+
+The project is developed in **two main parts**:
+
+1. **Data preprocessing and model development**, implemented in the `cleaning_Model_dev` file.
+2. **Application layer**, implemented in `app.py`.
+
+Follow the steps below to run the project:
+
+1. Download the dataset from the link provided above.
+2. Run the `cleaning_Model_dev` file using the downloaded dataset to perform data cleaning, preprocessing, and model training. This step generates the required model artifacts and the cleaned CSV file.
+3. To run the application, ensure the following files are present in the root directory:
+
+   * `app.py` – Main Streamlit application
+   * `rf_model.pkl` – Trained Random Forest model
+   * `scaler.pkl` – StandardScaler object
+   * `model_columns.pkl` – List of training features
+4. Start the application by running:
+
+   ```bash
+   streamlit run app.py
+   ```
+5. To view the **data dashboard**, upload the cleaned CSV file generated from the preprocessing step into the application.
+
+---
+
+## Development & Implementation Details
+
+### Application Overview
+
+**Pathrise Placement Predictor & Data Dashboard** is a comprehensive Streamlit web application that predicts job placement success using a **Random Forest Classifier**. The system supports real-time inference, advanced analytics, and administrative data exploration.
+
+### Key Features
+
+* **User System (RBAC):**
+  Role-based access control with two user levels:
+
+  * **Admin:** Full data access and analytics dashboard
+  * **Basic:** Prediction calculator only
+
+* **Secure Authentication:**
+  User credentials are stored in **SQLite** with **SHA-256 password hashing**.
+
+* **Machine Learning Predictor:**
+  Real-time prediction using a trained Random Forest model on historical Pathrise applicant data.
+
+* **Data Explorer & Dataset Library:**
+  Admin users can upload CSV files of historical data used for training and analyze them across multiple tabs.
+
+* **Advanced Analytics:**
+  Over 10 interactive **Plotly** visualizations, including heatmaps and success-rate analysis.
+
+* **SQL Integration:**
+
+  * Automated logging of every prediction
+  * Relational dataset library for dataset management
+
+### Project Structure & Logic
+
+* **init_db():** Initializes relational tables for users, predictions, and stored datasets
+* **Authentication Logic:** Uses `st.session_state` to maintain login status across tabs
+* **One-Hot Encoding:** User inputs are manually encoded to match the training feature space
+* **Dataset Library:** Uploaded CSV files are stored physically in a `stored_datasets/` folder while metadata is saved in SQLite
 
 ---
 
 ## Technical Stack
 
-* **Frontend:** [Streamlit](https://streamlit.io/)
+* **Frontend:** Streamlit
 * **Machine Learning:** Scikit-Learn (Random Forest, StandardScaler)
 * **Database:** SQLite3
-* **Visualizations:** Plotly Express, Seaborn, Matplotlib
+* **Visualizations:** Plotly Express
 * **Security:** Hashlib (SHA-256)
-* **Data Handling:** Pandas, NumPy, OS
+* **Data Handling:** Pandas, NumPy
 
-### 3. Files Required
+---
 
-Ensure the following files are in the root directory:
+## Deployed Application
 
-* `app.py` (The main script)
-* `rf_model.pkl` (Trained model)
-* `scaler.pkl` (StandardScaler object)
-* `model_columns.pkl` (List of training features)
-
-
-## Project Structure & Logic
-
-* **`init_db()`**: Sets up the relational database for users, predictions, and the dataset library.
-* **Authentication Logic**: Uses `st.session_state` to maintain login status across different tabs.
-* **One-Hot Encoding**: The app manually creates dummy variables for user input to match the model's training format.
-* **Dataset Library**: Saves physical `.csv` files to a `stored_datasets/` folder while keeping a record in SQL.
-
+[https://pathrise-dashboard.streamlit.app/](https://pathrise-dashboard.streamlit.app/)
